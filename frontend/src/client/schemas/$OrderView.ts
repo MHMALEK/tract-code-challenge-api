@@ -4,24 +4,6 @@
 /* eslint-disable */
 export const $OrderView = {
     properties: {
-        farm: {
-            type: 'any-of',
-            contains: [{
-                type: 'Farm',
-            }, {
-                type: 'null',
-            }],
-            isRequired: true,
-        },
-        product: {
-            type: 'any-of',
-            contains: [{
-                type: 'Farm',
-            }, {
-                type: 'null',
-            }],
-            isRequired: true,
-        },
         quantity: {
             type: 'number',
             isRequired: true,
@@ -41,6 +23,7 @@ export const $OrderView = {
             }, {
                 type: 'null',
             }],
+            isRequired: true,
         },
         product_id: {
             type: 'any-of',
@@ -54,10 +37,6 @@ export const $OrderView = {
             type: 'string',
             isRequired: true,
             format: 'date-time',
-        },
-        cost: {
-            type: 'number',
-            isRequired: true,
         },
         id: {
             type: 'number',

@@ -7,7 +7,6 @@ export { CancelablePromise, CancelError } from './core/CancelablePromise';
 export { OpenAPI } from './core/OpenAPI';
 export type { OpenAPIConfig } from './core/OpenAPI';
 
-export type { Farm } from './models/Farm';
 export type { FarmsView } from './models/FarmsView';
 export type { FarmView } from './models/FarmView';
 export type { HTTPValidationError } from './models/HTTPValidationError';
@@ -18,7 +17,6 @@ export type { ProductsView } from './models/ProductsView';
 export type { ProductView } from './models/ProductView';
 export type { ValidationError } from './models/ValidationError';
 
-export { $Farm } from './schemas/$Farm';
 export { $FarmsView } from './schemas/$FarmsView';
 export { $FarmView } from './schemas/$FarmView';
 export { $HTTPValidationError } from './schemas/$HTTPValidationError';

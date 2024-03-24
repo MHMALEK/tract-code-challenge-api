@@ -20,12 +20,12 @@ export class OrdersService {
     public static readOrders({
         skip,
         limit = 100,
-        farm_id,
+        farmId,
         productId,
     }: {
         skip?: number,
         limit?: number,
-        farm_id?: any,
+        farmId?: any,
         productId?: any,
     }): CancelablePromise<OrdersView> {
         return __request(OpenAPI, {
@@ -34,7 +34,7 @@ export class OrdersService {
             query: {
                 'skip': skip,
                 'limit': limit,
-                'farm_id': farm_id,
+                'farm_id': farmId,
                 'product_id': productId,
             },
             errors: {

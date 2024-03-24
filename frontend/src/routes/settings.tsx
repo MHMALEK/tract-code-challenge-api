@@ -1,7 +1,12 @@
+import { createFileRoute } from '@tanstack/react-router';
 import UserImage from '../images/user.png';
 import DefaultLayout from '../layout/DefaultLayout';
 
-const Settings = () => {
+export const Route = createFileRoute('/settings')({
+  component: SettingsPage,
+})
+
+function SettingsPage () {
   return (
     <DefaultLayout>
       <div className="mx-auto max-w-270">
@@ -306,4 +311,4 @@ const Settings = () => {
   );
 };
 
-export default Settings;
+export default SettingsPage;

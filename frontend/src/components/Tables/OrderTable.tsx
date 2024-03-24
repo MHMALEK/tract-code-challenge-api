@@ -1,10 +1,12 @@
-import { farmData } from '../../data';
-import { FarmView as iFarm } from '../../client/models/FarmView.ts';
-import { OrderView as iOrder } from '../../client/models/OrderView.ts';
+import { FarmView, ProductView, OrderView } from '../../client/index.ts';
 
-const FarmTable = ({ data }) => {
-  const orderData = data.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+interface OrderTableProps {
+  farms: FarmView[];
+  orders: OrderView[];
+  products: ProductView[];
+}
 
+const OrderTable: React.FC<OrderTableProps> = ({ orders, farms, products }) => {
   return (
     <div className="rounded-sm border border-stroke bg-white px-5 pt-6 pb-2.5 shadow-default dark:border-strokedark dark:bg-boxdark sm:px-7.5 xl:pb-1">
       <div className="flex flex-col">
@@ -21,6 +23,11 @@ const FarmTable = ({ data }) => {
           </div>
           <div className="p-2.5 text-center xl:p-5">
             <h5 className="text-sm font-medium uppercase xsm:text-base">
+              Product
+            </h5>
+          </div>
+          <div className="p-2.5 text-center xl:p-5">
+            <h5 className="text-sm font-medium uppercase xsm:text-base">
               Status
             </h5>
           </div>
@@ -29,14 +36,24 @@ const FarmTable = ({ data }) => {
               Quantity
             </h5>
           </div>
+          <div className="p-2.5 text-center xl:p-5">
+            <h5 className="text-sm font-medium uppercase xsm:text-base">
+              Invoice Total
+            </h5>
+          </div>
         </div>
 
-        {orderData.map((order: iOrder, key: number) => {
-          const farmName = farmData.find((farm: iFarm) => farm.id === order.farm_id)?.name;
+        {orders.map((order: OrderView, key: number) => {
+          const farmName = farms.find((farm) => farm.id === order.farm_id)?.name;
+          const product = products.find((product) => product.id === order.product_id);
+
+          const total = order.quantity * (product?.unit_revenue || 0)
+          const productName = product?.name || '';
+
           return (
             <div
               className={`grid grid-cols-3 sm:grid-cols-5 ${
-                key === data.length - 1
+                key === orders.length - 1
                   ? ''
                   : 'border-b border-stroke dark:border-strokedark'
               }`}
@@ -50,6 +67,10 @@ const FarmTable = ({ data }) => {
 
               <div className="flex items-center justify-center p-2.5 xl:p-5">
                 <p className="text-black dark:text-white">{order.date}</p>
+              </div>
+
+              <div className="flex items-center justify-center p-2.5 xl:p-5">
+                <p className="text-black dark:text-white">{productName}</p>
               </div>
 
               <div className="flex items-center justify-center p-2.5 xl:p-5">
@@ -68,6 +89,9 @@ const FarmTable = ({ data }) => {
               <div className="flex items-center justify-center p-2.5 xl:p-5">
                 <p className="text-black dark:text-white">{order.quantity}</p>
               </div>
+              <div className="flex items-center justify-center p-2.5 xl:p-5">
+                <p className="text-black dark:text-white">€{total}</p>
+              </div>
             </div>
           )
         })}
@@ -76,4 +100,4 @@ const FarmTable = ({ data }) => {
   );
 };
 
-export default FarmTable;
+export default OrderTable;

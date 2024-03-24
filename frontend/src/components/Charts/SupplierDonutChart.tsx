@@ -1,27 +1,27 @@
 import { ApexOptions } from 'apexcharts';
-import React, { useState } from 'react';
+import React from 'react';
 import ReactApexChart from 'react-apexcharts';
-import { FarmsService, OrdersService } from '../../client';
-import { useQuery } from 'react-query';
+import { FarmView, OrderView } from '../../client';
 
-interface SupplierDonutChartState {
-  series: number[];
+interface ISummary {
+  [key: number]: number;
 }
 
-const summarizeSuppliers = (farms, orders) => {
+const summarizeSuppliers = (orders: OrderView[]): ISummary => {
   return orders.reduce((acc, order) => {
-    acc[order.farm_id - 1] += order.quantity;
+    const currentQuantity = acc[order.farm_id] || 0
+    acc[order.farm_id] = currentQuantity + order.quantity;
   
     return acc;
-  }, new Array(farms.length).fill(0));
+  }, {});
 }
 
-const getOptions = (supplierSummaries, farms): ApexOptions => ({
+const getOptions = (labels: string[]): ApexOptions => ({
   chart: {
     fontFamily: 'Satoshi, sans-serif',
     type: 'donut',
   },
-  labels: supplierSummaries.map((_, index) => farms[index].name),
+  labels,
   legend: {
     position: 'bottom',
   },
@@ -57,26 +57,16 @@ const getOptions = (supplierSummaries, farms): ApexOptions => ({
   ],
 });
 
-const SupplierDonutChart: React.FC = () => {
-  const {
-    data: farms,
-    isLoading: loadingFarms,
-    isLoadingError: errorLoadingFarms,
-    isError: errorFarms,
-  } = useQuery("farms", () => FarmsService.readFarms({}))
+interface SupplierDonutChartProps {
+  farms: FarmView[];
+  orders: OrderView[];
+}
 
-  const {
-    data: orders,
-    isLoading: loadingOrders,
-    isLoadingError: errorLoadingOrders,
-    isError: errorOrders,
-  } = useQuery("orders", () => OrdersService.readOrders({}))
-
-  if (loadingOrders || loadingFarms) { return <></>}
-
-  const series = summarizeSuppliers(farms, orders)
-
-  const apexOptions = getOptions(series, farms)
+const SupplierDonutChart: React.FC<SupplierDonutChartProps> = ({ farms, orders }) => {
+  const summary = summarizeSuppliers(orders)
+  const series = Object.values(summary)
+  const labels = Object.keys(summary).map((farmId) => farms.find(farm => String(farm.id) === farmId)?.name)
+  const apexOptions = getOptions(labels)
 
   return (
     <div className="sm:px-7.5 col-span-12 rounded-sm border border-stroke bg-white px-5 pb-5 pt-7.5 shadow-default dark:border-strokedark dark:bg-boxdark xl:col-span-5">

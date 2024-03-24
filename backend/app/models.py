@@ -10,7 +10,6 @@ class FarmBase(SQLModel):
 # Database model, database table inferred from class name
 class Farm(FarmBase, table=True):
     country: str
-
     id: int | None = Field(default=None, primary_key=True)
 
 class FarmView(FarmBase):
@@ -23,10 +22,9 @@ class FarmsView(SQLModel):
 class OrderBase(SQLModel):
     quantity: int
     status: str | None = None
-    farm_id: int | None = Field(default=None, foreign_key="farm.id", nullable=False)
-    product_id: int | None = Field(default=None, foreign_key="product.id", nullable=False)
+    farm_id: int = Field(default=None, foreign_key="farm.id", nullable=False)
+    product_id: int = Field(default=None, foreign_key="product.id", nullable=False)
     date: datetime
-    total_cost: int
 
 class Order(OrderBase, table=True):
     id: int | None = Field(default=None, primary_key=True)
@@ -46,6 +44,7 @@ class OrderCreate(OrderBase):
 class ProductBase(SQLModel):
     name: str
     unit_cost: int
+    unit_revenue: int
 
 class Product(ProductBase, table=True):
     id: int | None = Field(default=None, primary_key=True)

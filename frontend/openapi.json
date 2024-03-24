@@ -348,40 +348,6 @@
   },
   "components": {
     "schemas": {
-      "Farm": {
-        "properties": {
-          "city": {
-            "type": "string",
-            "title": "City"
-          },
-          "country": {
-            "type": "string",
-            "title": "Country"
-          },
-          "name": {
-            "type": "string",
-            "title": "Name"
-          },
-          "id": {
-            "anyOf": [
-              {
-                "type": "integer"
-              },
-              {
-                "type": "null"
-              }
-            ],
-            "title": "Id"
-          }
-        },
-        "type": "object",
-        "required": [
-          "city",
-          "country",
-          "name"
-        ],
-        "title": "Farm"
-      },
       "FarmView": {
         "properties": {
           "city": {
@@ -446,26 +412,6 @@
       },
       "OrderCreate": {
         "properties": {
-          "farm": {
-            "anyOf": [
-              {
-                "$ref": "#/components/schemas/Farm"
-              },
-              {
-                "type": "null"
-              }
-            ]
-          },
-          "product": {
-            "anyOf": [
-              {
-                "$ref": "#/components/schemas/Farm"
-              },
-              {
-                "type": "null"
-              }
-            ]
-          },
           "quantity": {
             "type": "integer",
             "title": "Quantity",
@@ -508,43 +454,17 @@
             "type": "string",
             "format": "date-time",
             "title": "Date"
-          },
-          "cost": {
-            "type": "integer",
-            "title": "Cost"
           }
         },
         "type": "object",
         "required": [
-          "farm",
-          "product",
-          "date",
-          "cost"
+          "farm_id",
+          "date"
         ],
         "title": "OrderCreate"
       },
       "OrderView": {
         "properties": {
-          "farm": {
-            "anyOf": [
-              {
-                "$ref": "#/components/schemas/Farm"
-              },
-              {
-                "type": "null"
-              }
-            ]
-          },
-          "product": {
-            "anyOf": [
-              {
-                "$ref": "#/components/schemas/Farm"
-              },
-              {
-                "type": "null"
-              }
-            ]
-          },
           "quantity": {
             "type": "integer",
             "title": "Quantity"
@@ -587,10 +507,6 @@
             "format": "date-time",
             "title": "Date"
           },
-          "cost": {
-            "type": "integer",
-            "title": "Cost"
-          },
           "id": {
             "type": "integer",
             "title": "Id"
@@ -598,11 +514,9 @@
         },
         "type": "object",
         "required": [
-          "farm",
-          "product",
           "quantity",
+          "farm_id",
           "date",
-          "cost",
           "id"
         ],
         "title": "OrderView"
@@ -638,6 +552,10 @@
             "type": "integer",
             "title": "Unit Cost"
           },
+          "unit_revenue": {
+            "type": "integer",
+            "title": "Unit Revenue"
+          },
           "id": {
             "type": "integer",
             "title": "Id"
@@ -647,6 +565,7 @@
         "required": [
           "name",
           "unit_cost",
+          "unit_revenue",
           "id"
         ],
         "title": "ProductView"

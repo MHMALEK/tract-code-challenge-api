@@ -1,7 +1,17 @@
 import { ApexOptions } from 'apexcharts';
-import React, { useState } from 'react';
+import React from 'react';
 import ReactApexChart from 'react-apexcharts';
-import { orderData } from '../../data';
+import { OrderView, ProductView } from '../../client';
+
+interface ProfitBarChartProps {
+  orders: OrderView[];
+  products: ProductView[];
+}
+
+interface ProfitBarChartSeries {
+  name: string;
+  data: number[];
+}
 
 const options: ApexOptions = {
   colors: ['#3C50E0', '#80CAEE'],
@@ -63,35 +73,35 @@ const options: ApexOptions = {
   },
 };
 
-interface ProfitBarChartState {
-  series: {
-    name: string;
-    data: number[];
-  }[];
+const summarizeProfit = (orders: OrderView[], products: ProductView[]) => {
+  const productsById = products.reduce((dictionary: { [key: string]: ProductView }, product) => {
+    dictionary[product.id] = product
+    return dictionary
+  }, {})
+
+  return orders.reduce((acc: ProfitBarChartSeries[], order: OrderView) => {
+    const [costSeries, revenueSeries] = acc
+    const product = productsById[order.product_id]
+    const orderDay = (new Date(order.date)).getDay();
+
+    const previousCost = costSeries.data[orderDay] || 0
+    const previousRevenue = revenueSeries.data[orderDay] || 0
+
+    costSeries.data[orderDay] = previousCost + order.quantity * product.unit_cost;
+    revenueSeries.data[orderDay] = previousRevenue + order.quantity * product.unit_revenue;
+    return acc;
+  }, [{
+    name: 'Cost',
+    data: [],
+  },
+  {
+    name: 'Revenue',
+    data: [],
+  }])
 }
 
-const costs = orderData.reduce((acc, order) => {
-  const orderDay = (new Date(order.date)).getDay();
-  acc[orderDay] += order.quantity * 0.25;
-
-  return acc;
-}, new Array(7).fill(0));
-
-const revenues = costs.map((cost) => Math.round((cost + 200) * (1 + Math.random())));
-
-const ProfitBarChart: React.FC = () => {
-  const [state, setState] = useState<ProfitBarChartState>({
-    series: [
-      {
-        name: 'Cost',
-        data: costs,
-      },
-      {
-        name: 'Revenue',
-        data: revenues,
-      },
-    ],
-  });
+const ProfitBarChart: React.FC<ProfitBarChartProps> = ({ orders, products }) => {
+  const series = summarizeProfit(orders, products)
 
   return (
     <div className="col-span-12 rounded-sm border border-stroke bg-white p-7.5 shadow-default dark:border-strokedark dark:bg-boxdark xl:col-span-4">
@@ -139,7 +149,7 @@ const ProfitBarChart: React.FC = () => {
         <div id="ProfitBarChart" className="-ml-5 -mb-9">
           <ReactApexChart
             options={options}
-            series={state.series}
+            series={series}
             type="bar"
             height={350}
           />

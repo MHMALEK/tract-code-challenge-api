@@ -16,7 +16,7 @@ const TanStackRouterDevtools =
 
 export const Route = createRootRoute({
   component: () => (
-    <Dashboard/>
+    <Outlet/>
   ),
   notFoundComponent: () => <NotFound />,
 })

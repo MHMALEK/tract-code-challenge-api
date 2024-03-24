@@ -44,8 +44,8 @@ def init_db(session: Session) -> None:
     session.add(farm_9)
     session.add(farm_10)
 
-    product1 = Product(name = "Cherry", unit_cost = 350)
-    product2 = Product(name = "Heirloom", unit_cost = 750)
+    product1 = Product(name = "Cherry", unit_cost = 350, unit_revenue = 400)
+    product2 = Product(name = "Heirloom", unit_cost = 750, unit_revenue = 1500)
 
     session.add(product1)
     session.add(product2)

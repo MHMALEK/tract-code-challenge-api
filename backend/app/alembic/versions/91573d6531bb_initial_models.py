@@ -31,6 +31,7 @@ def upgrade():
         sa.Column('id', sa.Integer(), primary_key=True),
         sa.Column('name', sqlmodel.sql.sqltypes.AutoString(), nullable=False),
         sa.Column('unit_cost', sa.Integer(), nullable=True),
+        sa.Column('unit_revenue', sa.Integer(), nullable=True),
     )
 
     op.create_table(
@@ -39,7 +40,6 @@ def upgrade():
         sa.Column('farm_id', sa.Integer),
         sa.Column('product_id', sa.Integer),
         sa.Column('quantity', sa.Integer),
-        sa.Column('total_cost', sa.Integer),
         sa.Column('status', sqlmodel.sql.sqltypes.AutoString()),
         sa.Column('date', sa.DateTime()),
     )

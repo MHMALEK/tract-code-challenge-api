@@ -6,6 +6,7 @@
 export type ProductView = {
     name: string;
     unit_cost: number;
+    unit_revenue: number;
     id: number;
 };
 

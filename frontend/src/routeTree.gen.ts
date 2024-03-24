@@ -11,13 +11,37 @@
 // Import Routes
 
 import { Route as rootRoute } from './routes/__root'
+import { Route as SettingsImport } from './routes/settings'
+import { Route as OrdersImport } from './routes/orders'
+import { Route as FarmsImport } from './routes/farms'
 import { Route as LayoutImport } from './routes/_layout'
+import { Route as IndexImport } from './routes/index'
 import { Route as LayoutIndexImport } from './routes/_layout/index'
 
 // Create/Update Routes
 
+const SettingsRoute = SettingsImport.update({
+  path: '/settings',
+  getParentRoute: () => rootRoute,
+} as any)
+
+const OrdersRoute = OrdersImport.update({
+  path: '/orders',
+  getParentRoute: () => rootRoute,
+} as any)
+
+const FarmsRoute = FarmsImport.update({
+  path: '/farms',
+  getParentRoute: () => rootRoute,
+} as any)
+
 const LayoutRoute = LayoutImport.update({
   id: '/_layout',
+  getParentRoute: () => rootRoute,
+} as any)
+
+const IndexRoute = IndexImport.update({
+  path: '/',
   getParentRoute: () => rootRoute,
 } as any)
 
@@ -30,8 +54,24 @@ const LayoutIndexRoute = LayoutIndexImport.update({
 
 declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
+    '/': {
+      preLoaderRoute: typeof IndexImport
+      parentRoute: typeof rootRoute
+    }
     '/_layout': {
       preLoaderRoute: typeof LayoutImport
+      parentRoute: typeof rootRoute
+    }
+    '/farms': {
+      preLoaderRoute: typeof FarmsImport
+      parentRoute: typeof rootRoute
+    }
+    '/orders': {
+      preLoaderRoute: typeof OrdersImport
+      parentRoute: typeof rootRoute
+    }
+    '/settings': {
+      preLoaderRoute: typeof SettingsImport
       parentRoute: typeof rootRoute
     }
     '/_layout/': {
@@ -44,7 +84,11 @@ declare module '@tanstack/react-router' {
 // Create and export the route tree
 
 export const routeTree = rootRoute.addChildren([
+  IndexRoute,
   LayoutRoute.addChildren([LayoutIndexRoute]),
+  FarmsRoute,
+  OrdersRoute,
+  SettingsRoute,
 ])
 
 /* prettier-ignore-end */
