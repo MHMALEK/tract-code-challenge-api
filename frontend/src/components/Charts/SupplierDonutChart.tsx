@@ -9,7 +9,7 @@ interface ISummary {
 
 const summarizeSuppliers = (orders: OrderView[]): ISummary => {
   return orders.reduce((acc, order) => {
-    const currentQuantity = acc[order.farm_id] || 0
+    const currentQuantity = (order.farm_id && acc[order.farm_id]) || 0
     acc[order.farm_id] = currentQuantity + order.quantity;
   
     return acc;

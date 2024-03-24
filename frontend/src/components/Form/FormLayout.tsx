@@ -1,5 +1,5 @@
 import { Link } from '@tanstack/react-router';
-import SelectGroupOne from '../../components/Forms/SelectGroup/SelectGroupOne';
+import SelectGroupOne from '../Forms/SelectGroup/SelectGroupOne';
 import DefaultLayout from '../../layout/DefaultLayout';
 
 const FormLayout = () => {
