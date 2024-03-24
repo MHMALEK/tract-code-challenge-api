@@ -3,6 +3,9 @@
 /* tslint:disable */
 /* eslint-disable */
 
-export type Message = {
-    message: string;
+export type ProductView = {
+    name: string;
+    unit_cost: number;
+    id: number;
 };
+

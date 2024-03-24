@@ -3,7 +3,10 @@
 /* tslint:disable */
 /* eslint-disable */
 
-export type UserUpdateMe = {
-    full_name?: (string | null);
-    email?: (string | null);
+import type { OrderView } from './OrderView';
+
+export type OrdersView = {
+    data: Array<OrderView>;
+    count: number;
 };
+

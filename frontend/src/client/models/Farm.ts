@@ -3,7 +3,10 @@
 /* tslint:disable */
 /* eslint-disable */
 
-export type NewPassword = {
-    token: string;
-    new_password: string;
+export type Farm = {
+    city: string;
+    country: string;
+    name: string;
+    id?: (number | null);
 };
+

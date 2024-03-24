@@ -3,9 +3,10 @@
 /* tslint:disable */
 /* eslint-disable */
 
-import type { UserOut } from './UserOut';
-
-export type UsersOut = {
-    data: Array<UserOut>;
-    count: number;
+export type FarmView = {
+    city: string;
+    country: string;
+    name: string;
+    id: number;
 };
+

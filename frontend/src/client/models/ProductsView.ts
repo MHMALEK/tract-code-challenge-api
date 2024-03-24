@@ -3,7 +3,10 @@
 /* tslint:disable */
 /* eslint-disable */
 
-export type ItemUpdate = {
-    title?: (string | null);
-    description?: (string | null);
+import type { ProductView } from './ProductView';
+
+export type ProductsView = {
+    data: Array<ProductView>;
+    count: number;
 };
+

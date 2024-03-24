@@ -3,7 +3,10 @@
 /* tslint:disable */
 /* eslint-disable */
 
-export type ItemCreate = {
-    title: string;
-    description?: (string | null);
+import type { FarmView } from './FarmView';
+
+export type FarmsView = {
+    data: Array<FarmView>;
+    count: number;
 };
+
