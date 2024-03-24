@@ -1,74 +1,39 @@
-# Full Stack FastAPI Template
+# TRACT Coding Challenge
 
-<a href="https://github.com/tiangolo/full-stack-fastapi-template/actions?query=workflow%3ATest" target="_blank"><img src="https://github.com/tiangolo/full-stack-fastapi-template/workflows/Test/badge.svg" alt="Test"></a>
-<a href="https://coverage-badge.samuelcolvin.workers.dev/redirect/tiangolo/full-stack-fastapi-template" target="_blank"><img src="https://coverage-badge.samuelcolvin.workers.dev/tiangolo/full-stack-fastapi-template.svg" alt="Coverage"></a>
+## Background
 
-## Technology Stack and Features
+The main goal of interviews at TRACT is to find a good fit. We hope that you will enjoy working with us and be able to perform your best work in our environment! To this end, our interviews are not filled with gotchas and brainteasers, but attempt to let us work together in well-reasoned scenarios that mimic a collaborative environment.
 
-- ⚡ [**FastAPI**](https://fastapi.tiangolo.com) for the Python backend API.
-    - 🧰 [SQLModel](https://sqlmodel.tiangolo.com) for the Python SQL database interactions (ORM).
-    - 🔍 [Pydantic](https://docs.pydantic.dev), used by FastAPI, for the data validation and settings management.
-    - 💾 [PostgreSQL](https://www.postgresql.org) as the SQL database.
-- 🚀 [React](https://react.dev) for the frontend.
-    - 💃 Using TypeScript, hooks, Vite, and other parts of a modern frontend stack.
-- 🐋 [Docker Compose](https://www.docker.com) for development and production.
-- ✅ Tests with [Pytest](https://pytest.org).
-- 📞 [Traefik](https://traefik.io) as a reverse proxy / load balancer.
-- 🚢 Deployment instructions using Docker Compose, including how to set up a frontend Traefik proxy to handle automatic HTTPS certificates.
+## The Challenge
 
-### Interactive API Documentation
+Georgie is a manager of a tomato distributor. Her company buys tomatoes and sells them on the market. Most of the time, tomatoes are bought from suppliers and sold on the market. However, sometimes tomato farms become contaminated, and tomatoes purchased from those farms can no longer be sold.
 
-[![API docs](img/docs.png)](https://github.com/tiangolo/full-stack-fastapi-template)
+Georgie's boss asked her to build an app to summarize the business. She started by using [FastAPI](https://fastapi.tiangolo.com), [Tail Admin](https://tailadmin.com/) and created several screens with lists of suppliers and orders, and summaries of revenue, but quickly ran into trouble. 
 
-## How To Use It
+## Your Goal
 
-You can **just fork or clone** this repository and use it as is.
+Georgie needs help to make progress on the app. You can decide on area(s) to focus on, and can augment or create new pages. Use your judgement and imagination! Here are some examples of things you could focus on:
+- Improving the handling and calculation of revenue
+- Identifying and estimating impact of contamination
+- Adding thousands of rows to the tables and improving performance
+- Or choose your own direction!
 
-✨ It just works. ✨
+## The Interview Format
 
-### Configure
+You will pair with an interviewer who will observe you code through your solutions. The interviewer may ask questions or offer suggestions, but you will be guiding the direction of the work. You may use any reference materials (StackOverflow, Copilot, etc.) and tools that you use in your normal course of work. We believe that the best engineers will use references when needed, but have enough mastery of basic syntax, skills and best practices that they can work independently to a large measure. The main point is that we want you to feel comfortable and enjoy the interview, using your normal workflow!
 
-You can then update configs in the `.env` files to customize your configurations.
+## Prep Work
 
-Before deploying it, make sure you change at least the values for:
+Please fork this repo and look through the code before your interview. You should also have an idea of areas of the code you will want to work on during the interview, so that we don't spend time during the interview trying to find work rather than coding.
 
-- `SECRET_KEY`
-- `POSTGRES_PASSWORD`
+While not required, it may help you to spend a few minutes coding in the project to see how it works. You may make any changes you'd like, including adding new packages or adding to or removing current code.
 
-### Generate Secret Keys
+Just run `docker-compose up` and you'll be on your way!
 
-Some environment variables in the `.env` file have a default value of `changethis`.
+You can read more about the [tech stack](./TECH_STACK.md) used by the creators of the FastAPI template, which may help you in development.
 
-You have to change them with a secret key, to generate secret keys you can run the following command:
-
-```bash
-python -c "import secrets; print(secrets.token_urlsafe(32))"
-```
-
-Copy the content and use that as password / secret key. And run that again to generate another secure key.
-
-## Backend Development
-
-Backend docs: [backend/README.md](./backend/README.md).
-
-## Frontend Development
-
-Frontend docs: [frontend/README.md](./frontend/README.md).
-
-## Deployment
-
-Deployment docs: [deployment.md](./deployment.md).
-
-## Development
-
-General development docs: [development.md](./development.md).
-
-This includes using Docker Compose, custom local domains, `.env` configurations, etc.
-
-## Release Notes
-
-Check the file [release-notes.md](./release-notes.md).
+See you in the interview!
 
 ## License
 
-The Full Stack FastAPI Template is licensed under the terms of the MIT license.
+The Full Stack FastAPI Template, Tail Admin, and Create React App are licensed under the terms of the MIT license.
