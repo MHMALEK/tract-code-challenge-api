@@ -1,24 +1,27 @@
 import { ApexOptions } from 'apexcharts';
 import React, { useState } from 'react';
 import ReactApexChart from 'react-apexcharts';
-import { orderData, farmData } from '../../data';
+import { FarmsService, OrdersService } from '../../client';
+import { useQuery } from 'react-query';
 
 interface SupplierDonutChartState {
   series: number[];
 }
 
-const supplierSummaries = orderData.reduce((acc, order) => {
-  acc[order.farmId - 1] += order.quantity;
+const summarizeSuppliers = (farms, orders) => {
+  return orders.reduce((acc, order) => {
+    acc[order.farm_id - 1] += order.quantity;
+  
+    return acc;
+  }, new Array(farms.length).fill(0));
+}
 
-  return acc;
-}, new Array(farmData.length).fill(0));
-
-const options: ApexOptions = {
+const getOptions = (supplierSummaries, farms): ApexOptions => ({
   chart: {
     fontFamily: 'Satoshi, sans-serif',
     type: 'donut',
   },
-  labels: supplierSummaries.map((_, index) => farmData[index].name),
+  labels: supplierSummaries.map((_, index) => farms[index].name),
   legend: {
     position: 'bottom',
   },
@@ -52,20 +55,28 @@ const options: ApexOptions = {
       },
     },
   ],
-};
+});
 
 const SupplierDonutChart: React.FC = () => {
-  const [state, setState] = useState<SupplierDonutChartState>({
-    series: supplierSummaries,
-  });
+  const {
+    data: farms,
+    isLoading: loadingFarms,
+    isLoadingError: errorLoadingFarms,
+    isError: errorFarms,
+  } = useQuery("farms", () => FarmsService.readFarms({}))
 
-  const handleReset = () => {
-    setState((prevState) => ({
-      ...prevState,
-      series: supplierSummaries,
-    }));
-  };
-  handleReset; // eslint-disable-line
+  const {
+    data: orders,
+    isLoading: loadingOrders,
+    isLoadingError: errorLoadingOrders,
+    isError: errorOrders,
+  } = useQuery("orders", () => OrdersService.readOrders({}))
+
+  if (loadingOrders || loadingFarms) { return <></>}
+
+  const series = summarizeSuppliers(farms, orders)
+
+  const apexOptions = getOptions(series, farms)
 
   return (
     <div className="sm:px-7.5 col-span-12 rounded-sm border border-stroke bg-white px-5 pb-5 pt-7.5 shadow-default dark:border-strokedark dark:bg-boxdark xl:col-span-5">
@@ -116,8 +127,8 @@ const SupplierDonutChart: React.FC = () => {
       <div className="mb-2">
         <div id="SupplierDonutChart" className="mx-auto flex justify-center">
           <ReactApexChart
-            options={options}
-            series={state.series}
+            options={apexOptions}
+            series={series}
             type="donut"
           />
         </div>

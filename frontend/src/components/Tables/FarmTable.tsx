@@ -1,4 +1,4 @@
-import { iFarm } from '../../types/iFarm';
+import { FarmView as iFarm } from '../../client/models/FarmView.ts';
 
 const FarmTable = ({ data }) => {
   return (

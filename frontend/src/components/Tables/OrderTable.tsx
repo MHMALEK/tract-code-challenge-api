@@ -1,6 +1,6 @@
 import { farmData } from '../../data';
-import { iFarm } from '../../types/iFarm';
-import { iOrder } from '../../types/iOrder';
+import { FarmView as iFarm } from '../../client/models/FarmView.ts';
+import { OrderView as iOrder } from '../../client/models/OrderView.ts';
 
 const FarmTable = ({ data }) => {
   const orderData = data.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
@@ -32,7 +32,7 @@ const FarmTable = ({ data }) => {
         </div>
 
         {orderData.map((order: iOrder, key: number) => {
-          const farmName = farmData.find((farm: iFarm) => farm.id === order.farmId)?.name;
+          const farmName = farmData.find((farm: iFarm) => farm.id === order.farm_id)?.name;
           return (
             <div
               className={`grid grid-cols-3 sm:grid-cols-5 ${

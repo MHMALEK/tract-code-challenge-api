@@ -21,8 +21,6 @@ Backend, JSON based web API based on OpenAPI: http://localhost/api/
 
 Automatic interactive documentation with Swagger UI (from the OpenAPI backend): http://localhost/docs
 
-Adminer, database web administration: http://localhost:8080
-
 Traefik UI, to see how the routes are being handled by the proxy: http://localhost:8090
 
 **Note**: The first time you start your stack, it might take a minute for it to be ready. While the backend waits for the database to be ready and configures everything. You can check the logs to monitor it.

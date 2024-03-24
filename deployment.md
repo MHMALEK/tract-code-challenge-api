@@ -129,8 +129,7 @@ You can set several variables, like:
 
 * `BACKEND_CORS_ORIGINS`: A list of allowed CORS origins separated by commas.
 * `SECRET_KEY`: The secret key for the FastAPI project, used to sign tokens.
-* `FIRST_SUPERUSER`: The email of the first superuser, this superuser will be the one that can create new users.
-* `FIRST_SUPERUSER_PASSWORD`: The password of the first superuser.
+users.
 * `USERS_OPEN_REGISTRATION`: Whether to allow open registration of new users.
 * `SMTP_HOST`: The SMTP server host to send emails, this would come from your email provider (E.g. Mailgun, Sparkpost, Sendgrid, etc).
 * `SMTP_USER`: The SMTP server user to send emails.
@@ -173,94 +172,6 @@ You can have multiple environment deployments.
 
 There are already two environments configured, `staging` and `production`. 🚀
 
-### Install GitHub Actions Runner
-
-* On your remote server, if you are running as the `root` user, create a user for your GitHub Actions:
-
-```bash
-adduser github
-```
-
-* Add Docker permissions to the `github` user:
-
-```bash
-usermod -aG docker github
-```
-
-* Temporarily switch to the `github` user:
-
-```bash
-su - github
-```
-
-* Go to the `github` user's home directory:
-
-```bash
-cd
-```
-
-* [Install a GitHub Action self-hosted runner following the official guide](https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners/adding-self-hosted-runners#adding-a-self-hosted-runner-to-a-repository).
-
-* When asked about labels, add a label for the environment, e.g. `production`. You can also add labels later.
-
-After installing, the guide would tell you to run a command to start the runner. Nevertheless, it would stop once you terminate that process or if your local connection to your server is lost.
-
-To make sure it runs on startup and continues running, you can install it as a service. To do that, exit the `github` user and go back to the `root` user:
-
-```bash
-exit
-```
-
-After you do it, you would be on the `root` user again. And you will be on the previous directory, belonging to the `root` user.
-
-* Go to the `actions-runner` directory inside of the `github` user's home directory:
-
-```bash
-cd /home/github/actions-runner
-```
-
-* Install the self-hosted runner as a service with the user `github`:
-
-```bash
-./svc.sh install github
-```
-
-* Start the service:
-
-```bash
-./svc.sh start
-```
-
-* Check the status of the service:
-
-```bash
-./svc.sh status
-```
-
-You can read more about it in the official guide: [Configuring the self-hosted runner application as a service](https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners/configuring-the-self-hosted-runner-application-as-a-service).
-
-### Set Secrets
-
-On your repository, configure secrets for the environment variables you need, the same ones described above, including `SECRET_KEY`, etc. Follow the [official GitHub guide for setting repository secrets](https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions#creating-secrets-for-a-repository).
-
-The current Github Actions workflows expect these secrets:
-
-* `DOMAIN_PRODUCTION`
-* `DOMAIN_STAGING`
-* `EMAILS_FROM_EMAIL`
-* `FIRST_SUPERUSER`
-* `FIRST_SUPERUSER_PASSWORD`
-* `POSTGRES_PASSWORD`
-* `SECRET_KEY`
-
-## GitHub Action Deployment Workflows
-
-There are GitHub Action workflows in the `.github/workflows` directory already configured for deploying to the environments (GitHub Actions runners with the labels):
-
-* `staging`: after pushing (or merging) to the branch `master`.
-* `production`: after publishing a release.
-
-If you need to add extra environments you could use those as a starting point.
 
 ## URLs
 
@@ -278,8 +189,6 @@ Backend API docs: `https://fastapi-project.example.com/docs`
 
 Backend API base URL: `https://fastapi-project.example.com/api/`
 
-Adminer: `https://adminer.fastapi-project.example.com`
-
 ### Staging
 
 Frontend: `https://staging.fastapi-project.example.com`
@@ -287,5 +196,3 @@ Frontend: `https://staging.fastapi-project.example.com`
 Backend API docs: `https://staging.fastapi-project.example.com/docs`
 
 Backend API base URL: `https://staging.fastapi-project.example.com/api/`
-
-Adminer: `https://staging.adminer.fastapi-project.example.com`
