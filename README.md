@@ -28,7 +28,7 @@ Please fork this repo and look through the code before your interview. You shoul
 
 While not required, it may help you to spend a few minutes coding in the project to see how it works. You may make any changes you'd like, including adding new packages or adding to or removing current code.
 
-Just run `docker-compose up` and you'll be on your way!
+Just run `./scripts/start.sh` and you'll be on your way! You can also spin up a frontend server with live reload by running `npm start` from the `frontend` directory.
 
 You can read more about the [tech stack](./TECH_STACK.md) used by the creators of the FastAPI template, which may help you in development.
 
