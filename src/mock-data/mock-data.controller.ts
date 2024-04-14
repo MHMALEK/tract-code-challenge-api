@@ -23,7 +23,7 @@ export class MockDataController {
   }
   @Get('initial-center')
   getInitialCenter() {
-    // return coordinate of Amsterdam
+    // return coordinate of Amsterdam (just hardcoded as sake of speed and it's only a code challeng and not a real app)
     return { lat: 52.29, lng: 4.73 };
   }
 }
