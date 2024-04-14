@@ -1,11 +1,11 @@
-## Description
+# Description
 
 A very basic app to provide Mock data for Frontend code challenge
 
 ## Installation
 
 ```bash
-$ npm install
+npm install
 ```
 
 ## Running the app
