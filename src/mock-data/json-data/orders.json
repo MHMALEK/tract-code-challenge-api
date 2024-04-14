@@ -1,0 +1,6378 @@
+[
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 4951,
+    "purchasePrice": "206.00",
+    "sellingPrice": "151.00",
+    "profit": 18,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 28485,
+    "purchasePrice": "130.00",
+    "sellingPrice": "899.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 6955,
+    "purchasePrice": "184.00",
+    "sellingPrice": "507.00",
+    "profit": 19,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 37420,
+    "purchasePrice": "380.00",
+    "sellingPrice": "923.00",
+    "profit": 8,
+    "status": "sold"
+  },
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 32953,
+    "purchasePrice": "893.00",
+    "sellingPrice": "968.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 76208,
+    "purchasePrice": "168.00",
+    "sellingPrice": "39.00",
+    "profit": 15,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 37787,
+    "purchasePrice": "135.00",
+    "sellingPrice": "437.00",
+    "profit": 5,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 21327,
+    "purchasePrice": "830.00",
+    "sellingPrice": "711.00",
+    "profit": 18,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 92204,
+    "purchasePrice": "744.00",
+    "sellingPrice": "388.00",
+    "profit": 16,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 688,
+    "purchasePrice": "630.00",
+    "sellingPrice": "944.00",
+    "profit": 15,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 32327,
+    "purchasePrice": "770.00",
+    "sellingPrice": "481.00",
+    "profit": 11,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 78240,
+    "purchasePrice": "281.00",
+    "sellingPrice": "254.00",
+    "profit": 8,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 73105,
+    "purchasePrice": "146.00",
+    "sellingPrice": "454.00",
+    "profit": 8,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 91621,
+    "purchasePrice": "702.00",
+    "sellingPrice": "675.00",
+    "profit": 15,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 79428,
+    "purchasePrice": "656.00",
+    "sellingPrice": "502.00",
+    "profit": 18,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 12762,
+    "purchasePrice": "596.00",
+    "sellingPrice": "333.00",
+    "profit": 6,
+    "status": "sold"
+  },
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 81935,
+    "purchasePrice": "669.00",
+    "sellingPrice": "131.00",
+    "profit": 13,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 18167,
+    "purchasePrice": "896.00",
+    "sellingPrice": "273.00",
+    "profit": 20,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 18523,
+    "purchasePrice": "623.00",
+    "sellingPrice": "844.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 22804,
+    "purchasePrice": "935.00",
+    "sellingPrice": "699.00",
+    "profit": 10,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 73438,
+    "purchasePrice": "308.00",
+    "sellingPrice": "913.00",
+    "profit": 15,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 93954,
+    "purchasePrice": "761.00",
+    "sellingPrice": "548.00",
+    "profit": 19,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Runte, Heathcote and Sanford",
+    "quantity": 41678,
+    "purchasePrice": "754.00",
+    "sellingPrice": "945.00",
+    "profit": 8,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 63682,
+    "purchasePrice": "187.00",
+    "sellingPrice": "531.00",
+    "profit": 6,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 10825,
+    "purchasePrice": "462.00",
+    "sellingPrice": "885.00",
+    "profit": 16,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 86904,
+    "purchasePrice": "572.00",
+    "sellingPrice": "430.00",
+    "profit": 19,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 47752,
+    "purchasePrice": "674.00",
+    "sellingPrice": "724.00",
+    "profit": 6,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 89817,
+    "purchasePrice": "524.00",
+    "sellingPrice": "722.00",
+    "profit": 10,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 68096,
+    "purchasePrice": "254.00",
+    "sellingPrice": "562.00",
+    "profit": 16,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 32303,
+    "purchasePrice": "786.00",
+    "sellingPrice": "47.00",
+    "profit": 19,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 76483,
+    "purchasePrice": "466.00",
+    "sellingPrice": "451.00",
+    "profit": 19,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 54541,
+    "purchasePrice": "327.00",
+    "sellingPrice": "859.00",
+    "profit": 18,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 76273,
+    "purchasePrice": "688.00",
+    "sellingPrice": "358.00",
+    "profit": 11,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 81865,
+    "purchasePrice": "994.00",
+    "sellingPrice": "340.00",
+    "profit": 10,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 10595,
+    "purchasePrice": "83.00",
+    "sellingPrice": "273.00",
+    "profit": 18,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 50716,
+    "purchasePrice": "497.00",
+    "sellingPrice": "866.00",
+    "profit": 18,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 58236,
+    "purchasePrice": "149.00",
+    "sellingPrice": "12.00",
+    "profit": 20,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 39186,
+    "purchasePrice": "310.00",
+    "sellingPrice": "92.00",
+    "profit": 7,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 46232,
+    "purchasePrice": "955.00",
+    "sellingPrice": "444.00",
+    "profit": 11,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 50916,
+    "purchasePrice": "677.00",
+    "sellingPrice": "291.00",
+    "profit": 9,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 36135,
+    "purchasePrice": "403.00",
+    "sellingPrice": "278.00",
+    "profit": 10,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 79415,
+    "purchasePrice": "284.00",
+    "sellingPrice": "637.00",
+    "profit": 17,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 15454,
+    "purchasePrice": "88.00",
+    "sellingPrice": "117.00",
+    "profit": 13,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 67945,
+    "purchasePrice": "297.00",
+    "sellingPrice": "589.00",
+    "profit": 13,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 14090,
+    "purchasePrice": "737.00",
+    "sellingPrice": "52.00",
+    "profit": 20,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 52306,
+    "purchasePrice": "606.00",
+    "sellingPrice": "644.00",
+    "profit": 8,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 80026,
+    "purchasePrice": "861.00",
+    "sellingPrice": "416.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 80430,
+    "purchasePrice": "570.00",
+    "sellingPrice": "313.00",
+    "profit": 11,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 77635,
+    "purchasePrice": "859.00",
+    "sellingPrice": "424.00",
+    "profit": 19,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 95875,
+    "purchasePrice": "883.00",
+    "sellingPrice": "203.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 24615,
+    "purchasePrice": "546.00",
+    "sellingPrice": "930.00",
+    "profit": 16,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 95077,
+    "purchasePrice": "928.00",
+    "sellingPrice": "721.00",
+    "profit": 5,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 21699,
+    "purchasePrice": "338.00",
+    "sellingPrice": "108.00",
+    "profit": 15,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 73006,
+    "purchasePrice": "264.00",
+    "sellingPrice": "22.00",
+    "profit": 13,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 79152,
+    "purchasePrice": "733.00",
+    "sellingPrice": "238.00",
+    "profit": 7,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 35836,
+    "purchasePrice": "149.00",
+    "sellingPrice": "416.00",
+    "profit": 18,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 62964,
+    "purchasePrice": "72.00",
+    "sellingPrice": "734.00",
+    "profit": 6,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 26926,
+    "purchasePrice": "530.00",
+    "sellingPrice": "324.00",
+    "profit": 10,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 28511,
+    "purchasePrice": "937.00",
+    "sellingPrice": "332.00",
+    "profit": 10,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 99619,
+    "purchasePrice": "128.00",
+    "sellingPrice": "602.00",
+    "profit": 19,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 44618,
+    "purchasePrice": "769.00",
+    "sellingPrice": "270.00",
+    "profit": 8,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 36679,
+    "purchasePrice": "797.00",
+    "sellingPrice": "342.00",
+    "profit": 9,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 58810,
+    "purchasePrice": "354.00",
+    "sellingPrice": "962.00",
+    "profit": 18,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 99970,
+    "purchasePrice": "730.00",
+    "sellingPrice": "951.00",
+    "profit": 16,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 94776,
+    "purchasePrice": "899.00",
+    "sellingPrice": "122.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 20863,
+    "purchasePrice": "773.00",
+    "sellingPrice": "302.00",
+    "profit": 9,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 76411,
+    "purchasePrice": "752.00",
+    "sellingPrice": "370.00",
+    "profit": 9,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 29177,
+    "purchasePrice": "116.00",
+    "sellingPrice": "594.00",
+    "profit": 5,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 52498,
+    "purchasePrice": "136.00",
+    "sellingPrice": "6.00",
+    "profit": 10,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 24962,
+    "purchasePrice": "716.00",
+    "sellingPrice": "412.00",
+    "profit": 18,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 22081,
+    "purchasePrice": "258.00",
+    "sellingPrice": "832.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 66429,
+    "purchasePrice": "272.00",
+    "sellingPrice": "678.00",
+    "profit": 19,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 47474,
+    "purchasePrice": "116.00",
+    "sellingPrice": "325.00",
+    "profit": 8,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 52009,
+    "purchasePrice": "305.00",
+    "sellingPrice": "386.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 83383,
+    "purchasePrice": "435.00",
+    "sellingPrice": "986.00",
+    "profit": 20,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 12009,
+    "purchasePrice": "731.00",
+    "sellingPrice": "224.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 71931,
+    "purchasePrice": "502.00",
+    "sellingPrice": "972.00",
+    "profit": 8,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 64357,
+    "purchasePrice": "44.00",
+    "sellingPrice": "513.00",
+    "profit": 9,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 29776,
+    "purchasePrice": "593.00",
+    "sellingPrice": "364.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 15164,
+    "purchasePrice": "457.00",
+    "sellingPrice": "68.00",
+    "profit": 8,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 73,
+    "purchasePrice": "417.00",
+    "sellingPrice": "799.00",
+    "profit": 7,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 91548,
+    "purchasePrice": "223.00",
+    "sellingPrice": "27.00",
+    "profit": 13,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 14136,
+    "purchasePrice": "732.00",
+    "sellingPrice": "518.00",
+    "profit": 11,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 14124,
+    "purchasePrice": "411.00",
+    "sellingPrice": "272.00",
+    "profit": 7,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 38923,
+    "purchasePrice": "169.00",
+    "sellingPrice": "829.00",
+    "profit": 5,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 11903,
+    "purchasePrice": "697.00",
+    "sellingPrice": "974.00",
+    "profit": 8,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 18520,
+    "purchasePrice": "155.00",
+    "sellingPrice": "727.00",
+    "profit": 8,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 81915,
+    "purchasePrice": "354.00",
+    "sellingPrice": "798.00",
+    "profit": 15,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 23359,
+    "purchasePrice": "98.00",
+    "sellingPrice": "812.00",
+    "profit": 12,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 67248,
+    "purchasePrice": "276.00",
+    "sellingPrice": "65.00",
+    "profit": 15,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 69950,
+    "purchasePrice": "958.00",
+    "sellingPrice": "460.00",
+    "profit": 7,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 1854,
+    "purchasePrice": "546.00",
+    "sellingPrice": "261.00",
+    "profit": 6,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 24898,
+    "purchasePrice": "41.00",
+    "sellingPrice": "465.00",
+    "profit": 19,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 65458,
+    "purchasePrice": "455.00",
+    "sellingPrice": "196.00",
+    "profit": 20,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 1846,
+    "purchasePrice": "525.00",
+    "sellingPrice": "460.00",
+    "profit": 6,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 54181,
+    "purchasePrice": "510.00",
+    "sellingPrice": "102.00",
+    "profit": 12,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 90533,
+    "purchasePrice": "939.00",
+    "sellingPrice": "724.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 45811,
+    "purchasePrice": "766.00",
+    "sellingPrice": "618.00",
+    "profit": 11,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 40643,
+    "purchasePrice": "893.00",
+    "sellingPrice": "194.00",
+    "profit": 12,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 48193,
+    "purchasePrice": "300.00",
+    "sellingPrice": "523.00",
+    "profit": 5,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 19851,
+    "purchasePrice": "445.00",
+    "sellingPrice": "274.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 4809,
+    "purchasePrice": "142.00",
+    "sellingPrice": "556.00",
+    "profit": 12,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 49856,
+    "purchasePrice": "406.00",
+    "sellingPrice": "693.00",
+    "profit": 18,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 71584,
+    "purchasePrice": "192.00",
+    "sellingPrice": "680.00",
+    "profit": 15,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 44008,
+    "purchasePrice": "103.00",
+    "sellingPrice": "165.00",
+    "profit": 12,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 78789,
+    "purchasePrice": "117.00",
+    "sellingPrice": "738.00",
+    "profit": 11,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 78976,
+    "purchasePrice": "671.00",
+    "sellingPrice": "884.00",
+    "profit": 20,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 9167,
+    "purchasePrice": "513.00",
+    "sellingPrice": "491.00",
+    "profit": 15,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 48853,
+    "purchasePrice": "64.00",
+    "sellingPrice": "452.00",
+    "profit": 14,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 54218,
+    "purchasePrice": "840.00",
+    "sellingPrice": "631.00",
+    "profit": 14,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 74221,
+    "purchasePrice": "972.00",
+    "sellingPrice": "553.00",
+    "profit": 12,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 45014,
+    "purchasePrice": "299.00",
+    "sellingPrice": "634.00",
+    "profit": 20,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 44705,
+    "purchasePrice": "932.00",
+    "sellingPrice": "894.00",
+    "profit": 16,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 18443,
+    "purchasePrice": "1.00",
+    "sellingPrice": "618.00",
+    "profit": 12,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 26826,
+    "purchasePrice": "362.00",
+    "sellingPrice": "417.00",
+    "profit": 8,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 71822,
+    "purchasePrice": "477.00",
+    "sellingPrice": "596.00",
+    "profit": 14,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 8056,
+    "purchasePrice": "716.00",
+    "sellingPrice": "724.00",
+    "profit": 15,
+    "status": "sold"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 33625,
+    "purchasePrice": "357.00",
+    "sellingPrice": "990.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 13412,
+    "purchasePrice": "240.00",
+    "sellingPrice": "228.00",
+    "profit": 19,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 10973,
+    "purchasePrice": "537.00",
+    "sellingPrice": "802.00",
+    "profit": 12,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 4079,
+    "purchasePrice": "89.00",
+    "sellingPrice": "120.00",
+    "profit": 18,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 55476,
+    "purchasePrice": "992.00",
+    "sellingPrice": "574.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Yundt and Sons",
+    "quantity": 45746,
+    "purchasePrice": "776.00",
+    "sellingPrice": "247.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 8872,
+    "purchasePrice": "500.00",
+    "sellingPrice": "457.00",
+    "profit": 16,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 63801,
+    "purchasePrice": "524.00",
+    "sellingPrice": "192.00",
+    "profit": 15,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 45163,
+    "purchasePrice": "715.00",
+    "sellingPrice": "703.00",
+    "profit": 14,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 69049,
+    "purchasePrice": "87.00",
+    "sellingPrice": "486.00",
+    "profit": 11,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 72483,
+    "purchasePrice": "243.00",
+    "sellingPrice": "6.00",
+    "profit": 15,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 44549,
+    "purchasePrice": "576.00",
+    "sellingPrice": "446.00",
+    "profit": 20,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 72216,
+    "purchasePrice": "252.00",
+    "sellingPrice": "580.00",
+    "profit": 12,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 71112,
+    "purchasePrice": "792.00",
+    "sellingPrice": "356.00",
+    "profit": 20,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 25418,
+    "purchasePrice": "452.00",
+    "sellingPrice": "229.00",
+    "profit": 18,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 47923,
+    "purchasePrice": "547.00",
+    "sellingPrice": "681.00",
+    "profit": 9,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 90328,
+    "purchasePrice": "86.00",
+    "sellingPrice": "267.00",
+    "profit": 13,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 60102,
+    "purchasePrice": "663.00",
+    "sellingPrice": "257.00",
+    "profit": 20,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 6876,
+    "purchasePrice": "887.00",
+    "sellingPrice": "425.00",
+    "profit": 8,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 79410,
+    "purchasePrice": "939.00",
+    "sellingPrice": "399.00",
+    "profit": 13,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 49129,
+    "purchasePrice": "813.00",
+    "sellingPrice": "498.00",
+    "profit": 5,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 49135,
+    "purchasePrice": "898.00",
+    "sellingPrice": "192.00",
+    "profit": 14,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 86908,
+    "purchasePrice": "800.00",
+    "sellingPrice": "688.00",
+    "profit": 18,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 40170,
+    "purchasePrice": "704.00",
+    "sellingPrice": "641.00",
+    "profit": 20,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 5738,
+    "purchasePrice": "626.00",
+    "sellingPrice": "816.00",
+    "profit": 5,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 74415,
+    "purchasePrice": "90.00",
+    "sellingPrice": "345.00",
+    "profit": 12,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 2673,
+    "purchasePrice": "754.00",
+    "sellingPrice": "219.00",
+    "profit": 20,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 5029,
+    "purchasePrice": "741.00",
+    "sellingPrice": "367.00",
+    "profit": 10,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 39669,
+    "purchasePrice": "599.00",
+    "sellingPrice": "95.00",
+    "profit": 17,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 42407,
+    "purchasePrice": "213.00",
+    "sellingPrice": "90.00",
+    "profit": 16,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 62092,
+    "purchasePrice": "882.00",
+    "sellingPrice": "371.00",
+    "profit": 6,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 56495,
+    "purchasePrice": "521.00",
+    "sellingPrice": "384.00",
+    "profit": 11,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 45132,
+    "purchasePrice": "274.00",
+    "sellingPrice": "830.00",
+    "profit": 7,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 48671,
+    "purchasePrice": "921.00",
+    "sellingPrice": "826.00",
+    "profit": 8,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 87054,
+    "purchasePrice": "210.00",
+    "sellingPrice": "704.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 29799,
+    "purchasePrice": "990.00",
+    "sellingPrice": "917.00",
+    "profit": 15,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 36259,
+    "purchasePrice": "895.00",
+    "sellingPrice": "660.00",
+    "profit": 19,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 81301,
+    "purchasePrice": "260.00",
+    "sellingPrice": "284.00",
+    "profit": 13,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 7824,
+    "purchasePrice": "935.00",
+    "sellingPrice": "850.00",
+    "profit": 7,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 66775,
+    "purchasePrice": "349.00",
+    "sellingPrice": "937.00",
+    "profit": 18,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 6387,
+    "purchasePrice": "3.00",
+    "sellingPrice": "560.00",
+    "profit": 8,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 81728,
+    "purchasePrice": "142.00",
+    "sellingPrice": "207.00",
+    "profit": 5,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 54153,
+    "purchasePrice": "743.00",
+    "sellingPrice": "794.00",
+    "profit": 10,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 19542,
+    "purchasePrice": "603.00",
+    "sellingPrice": "122.00",
+    "profit": 14,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 44555,
+    "purchasePrice": "429.00",
+    "sellingPrice": "362.00",
+    "profit": 15,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 24879,
+    "purchasePrice": "136.00",
+    "sellingPrice": "603.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 39064,
+    "purchasePrice": "479.00",
+    "sellingPrice": "262.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 43729,
+    "purchasePrice": "487.00",
+    "sellingPrice": "646.00",
+    "profit": 18,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 77398,
+    "purchasePrice": "577.00",
+    "sellingPrice": "15.00",
+    "profit": 13,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 10684,
+    "purchasePrice": "63.00",
+    "sellingPrice": "308.00",
+    "profit": 10,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 25099,
+    "purchasePrice": "566.00",
+    "sellingPrice": "167.00",
+    "profit": 16,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 9214,
+    "purchasePrice": "698.00",
+    "sellingPrice": "838.00",
+    "profit": 15,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 37781,
+    "purchasePrice": "613.00",
+    "sellingPrice": "506.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 10848,
+    "purchasePrice": "751.00",
+    "sellingPrice": "244.00",
+    "profit": 11,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 32959,
+    "purchasePrice": "964.00",
+    "sellingPrice": "239.00",
+    "profit": 10,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 31198,
+    "purchasePrice": "754.00",
+    "sellingPrice": "471.00",
+    "profit": 6,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 21474,
+    "purchasePrice": "266.00",
+    "sellingPrice": "486.00",
+    "profit": 5,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 50687,
+    "purchasePrice": "534.00",
+    "sellingPrice": "187.00",
+    "profit": 15,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 10039,
+    "purchasePrice": "743.00",
+    "sellingPrice": "672.00",
+    "profit": 8,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 64823,
+    "purchasePrice": "597.00",
+    "sellingPrice": "113.00",
+    "profit": 6,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 32992,
+    "purchasePrice": "33.00",
+    "sellingPrice": "413.00",
+    "profit": 16,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 10689,
+    "purchasePrice": "227.00",
+    "sellingPrice": "604.00",
+    "profit": 13,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 6904,
+    "purchasePrice": "406.00",
+    "sellingPrice": "424.00",
+    "profit": 10,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 63792,
+    "purchasePrice": "149.00",
+    "sellingPrice": "398.00",
+    "profit": 15,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 8431,
+    "purchasePrice": "507.00",
+    "sellingPrice": "359.00",
+    "profit": 15,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 17018,
+    "purchasePrice": "361.00",
+    "sellingPrice": "204.00",
+    "profit": 9,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 4028,
+    "purchasePrice": "604.00",
+    "sellingPrice": "852.00",
+    "profit": 11,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 65407,
+    "purchasePrice": "32.00",
+    "sellingPrice": "809.00",
+    "profit": 10,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 69606,
+    "purchasePrice": "475.00",
+    "sellingPrice": "526.00",
+    "profit": 20,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 54194,
+    "purchasePrice": "776.00",
+    "sellingPrice": "984.00",
+    "profit": 19,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 13208,
+    "purchasePrice": "936.00",
+    "sellingPrice": "696.00",
+    "profit": 14,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 81549,
+    "purchasePrice": "392.00",
+    "sellingPrice": "829.00",
+    "profit": 10,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 78107,
+    "purchasePrice": "834.00",
+    "sellingPrice": "262.00",
+    "profit": 11,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 52794,
+    "purchasePrice": "801.00",
+    "sellingPrice": "292.00",
+    "profit": 17,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 46944,
+    "purchasePrice": "537.00",
+    "sellingPrice": "167.00",
+    "profit": 15,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 24451,
+    "purchasePrice": "82.00",
+    "sellingPrice": "652.00",
+    "profit": 20,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 52905,
+    "purchasePrice": "100.00",
+    "sellingPrice": "98.00",
+    "profit": 12,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 42339,
+    "purchasePrice": "5.00",
+    "sellingPrice": "44.00",
+    "profit": 15,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 60966,
+    "purchasePrice": "909.00",
+    "sellingPrice": "541.00",
+    "profit": 7,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 28793,
+    "purchasePrice": "238.00",
+    "sellingPrice": "293.00",
+    "profit": 7,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 9774,
+    "purchasePrice": "457.00",
+    "sellingPrice": "286.00",
+    "profit": 9,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 73611,
+    "purchasePrice": "672.00",
+    "sellingPrice": "193.00",
+    "profit": 19,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 86493,
+    "purchasePrice": "85.00",
+    "sellingPrice": "877.00",
+    "profit": 17,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 70279,
+    "purchasePrice": "2.00",
+    "sellingPrice": "748.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 57159,
+    "purchasePrice": "875.00",
+    "sellingPrice": "471.00",
+    "profit": 19,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 76322,
+    "purchasePrice": "782.00",
+    "sellingPrice": "505.00",
+    "profit": 13,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 55893,
+    "purchasePrice": "594.00",
+    "sellingPrice": "846.00",
+    "profit": 19,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 67728,
+    "purchasePrice": "773.00",
+    "sellingPrice": "795.00",
+    "profit": 5,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 44635,
+    "purchasePrice": "966.00",
+    "sellingPrice": "954.00",
+    "profit": 13,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 32633,
+    "purchasePrice": "569.00",
+    "sellingPrice": "47.00",
+    "profit": 15,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 35733,
+    "purchasePrice": "670.00",
+    "sellingPrice": "44.00",
+    "profit": 6,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 85035,
+    "purchasePrice": "553.00",
+    "sellingPrice": "45.00",
+    "profit": 20,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 80477,
+    "purchasePrice": "108.00",
+    "sellingPrice": "169.00",
+    "profit": 18,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 8845,
+    "purchasePrice": "951.00",
+    "sellingPrice": "392.00",
+    "profit": 12,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 28901,
+    "purchasePrice": "6.00",
+    "sellingPrice": "699.00",
+    "profit": 18,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 43647,
+    "purchasePrice": "425.00",
+    "sellingPrice": "74.00",
+    "profit": 20,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 42095,
+    "purchasePrice": "202.00",
+    "sellingPrice": "806.00",
+    "profit": 6,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 83461,
+    "purchasePrice": "939.00",
+    "sellingPrice": "548.00",
+    "profit": 7,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 44182,
+    "purchasePrice": "246.00",
+    "sellingPrice": "922.00",
+    "profit": 12,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 25335,
+    "purchasePrice": "952.00",
+    "sellingPrice": "874.00",
+    "profit": 12,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 1731,
+    "purchasePrice": "122.00",
+    "sellingPrice": "823.00",
+    "profit": 7,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 54630,
+    "purchasePrice": "541.00",
+    "sellingPrice": "833.00",
+    "profit": 6,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 68174,
+    "purchasePrice": "745.00",
+    "sellingPrice": "904.00",
+    "profit": 14,
+    "status": "sold"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 36522,
+    "purchasePrice": "771.00",
+    "sellingPrice": "903.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 95920,
+    "purchasePrice": "437.00",
+    "sellingPrice": "914.00",
+    "profit": 10,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Schaden LLC",
+    "quantity": 55385,
+    "purchasePrice": "689.00",
+    "sellingPrice": "36.00",
+    "profit": 8,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 23620,
+    "purchasePrice": "983.00",
+    "sellingPrice": "970.00",
+    "profit": 13,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 82354,
+    "purchasePrice": "529.00",
+    "sellingPrice": "935.00",
+    "profit": 15,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 65358,
+    "purchasePrice": "563.00",
+    "sellingPrice": "627.00",
+    "profit": 15,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 48584,
+    "purchasePrice": "618.00",
+    "sellingPrice": "794.00",
+    "profit": 19,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 12635,
+    "purchasePrice": "628.00",
+    "sellingPrice": "26.00",
+    "profit": 18,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 57518,
+    "purchasePrice": "327.00",
+    "sellingPrice": "317.00",
+    "profit": 9,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 59426,
+    "purchasePrice": "645.00",
+    "sellingPrice": "486.00",
+    "profit": 7,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 10013,
+    "purchasePrice": "488.00",
+    "sellingPrice": "270.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 38568,
+    "purchasePrice": "83.00",
+    "sellingPrice": "822.00",
+    "profit": 6,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 67449,
+    "purchasePrice": "16.00",
+    "sellingPrice": "581.00",
+    "profit": 9,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 91581,
+    "purchasePrice": "855.00",
+    "sellingPrice": "544.00",
+    "profit": 20,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 32650,
+    "purchasePrice": "688.00",
+    "sellingPrice": "978.00",
+    "profit": 9,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 3852,
+    "purchasePrice": "632.00",
+    "sellingPrice": "847.00",
+    "profit": 5,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 15551,
+    "purchasePrice": "638.00",
+    "sellingPrice": "99.00",
+    "profit": 18,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 93292,
+    "purchasePrice": "562.00",
+    "sellingPrice": "438.00",
+    "profit": 10,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 99711,
+    "purchasePrice": "43.00",
+    "sellingPrice": "208.00",
+    "profit": 9,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 49072,
+    "purchasePrice": "518.00",
+    "sellingPrice": "236.00",
+    "profit": 20,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 52822,
+    "purchasePrice": "816.00",
+    "sellingPrice": "117.00",
+    "profit": 10,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 72320,
+    "purchasePrice": "614.00",
+    "sellingPrice": "538.00",
+    "profit": 16,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 35974,
+    "purchasePrice": "747.00",
+    "sellingPrice": "992.00",
+    "profit": 18,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 37513,
+    "purchasePrice": "454.00",
+    "sellingPrice": "526.00",
+    "profit": 14,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 82992,
+    "purchasePrice": "762.00",
+    "sellingPrice": "19.00",
+    "profit": 7,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 86364,
+    "purchasePrice": "413.00",
+    "sellingPrice": "236.00",
+    "profit": 13,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 16870,
+    "purchasePrice": "592.00",
+    "sellingPrice": "740.00",
+    "profit": 13,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 56428,
+    "purchasePrice": "516.00",
+    "sellingPrice": "348.00",
+    "profit": 19,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 239,
+    "purchasePrice": "3.00",
+    "sellingPrice": "356.00",
+    "profit": 5,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 7924,
+    "purchasePrice": "65.00",
+    "sellingPrice": "824.00",
+    "profit": 18,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 42721,
+    "purchasePrice": "391.00",
+    "sellingPrice": "340.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 66273,
+    "purchasePrice": "825.00",
+    "sellingPrice": "563.00",
+    "profit": 13,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 14947,
+    "purchasePrice": "681.00",
+    "sellingPrice": "805.00",
+    "profit": 17,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 95124,
+    "purchasePrice": "713.00",
+    "sellingPrice": "960.00",
+    "profit": 18,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 5144,
+    "purchasePrice": "308.00",
+    "sellingPrice": "962.00",
+    "profit": 9,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 14121,
+    "purchasePrice": "997.00",
+    "sellingPrice": "959.00",
+    "profit": 15,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 77588,
+    "purchasePrice": "861.00",
+    "sellingPrice": "265.00",
+    "profit": 13,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 73762,
+    "purchasePrice": "286.00",
+    "sellingPrice": "474.00",
+    "profit": 14,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 21578,
+    "purchasePrice": "775.00",
+    "sellingPrice": "868.00",
+    "profit": 10,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 87489,
+    "purchasePrice": "563.00",
+    "sellingPrice": "651.00",
+    "profit": 14,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 89398,
+    "purchasePrice": "416.00",
+    "sellingPrice": "664.00",
+    "profit": 9,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 22782,
+    "purchasePrice": "239.00",
+    "sellingPrice": "528.00",
+    "profit": 20,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 14013,
+    "purchasePrice": "11.00",
+    "sellingPrice": "294.00",
+    "profit": 19,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 55786,
+    "purchasePrice": "999.00",
+    "sellingPrice": "552.00",
+    "profit": 10,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 41482,
+    "purchasePrice": "767.00",
+    "sellingPrice": "463.00",
+    "profit": 11,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 81140,
+    "purchasePrice": "434.00",
+    "sellingPrice": "56.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 61669,
+    "purchasePrice": "635.00",
+    "sellingPrice": "175.00",
+    "profit": 16,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 41822,
+    "purchasePrice": "710.00",
+    "sellingPrice": "213.00",
+    "profit": 20,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 68709,
+    "purchasePrice": "606.00",
+    "sellingPrice": "489.00",
+    "profit": 8,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 46898,
+    "purchasePrice": "600.00",
+    "sellingPrice": "948.00",
+    "profit": 8,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 84973,
+    "purchasePrice": "573.00",
+    "sellingPrice": "675.00",
+    "profit": 13,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 73717,
+    "purchasePrice": "849.00",
+    "sellingPrice": "188.00",
+    "profit": 13,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 17369,
+    "purchasePrice": "589.00",
+    "sellingPrice": "146.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 89711,
+    "purchasePrice": "905.00",
+    "sellingPrice": "890.00",
+    "profit": 15,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 29094,
+    "purchasePrice": "131.00",
+    "sellingPrice": "130.00",
+    "profit": 12,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 30826,
+    "purchasePrice": "926.00",
+    "sellingPrice": "916.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 2865,
+    "purchasePrice": "591.00",
+    "sellingPrice": "216.00",
+    "profit": 16,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 73971,
+    "purchasePrice": "501.00",
+    "sellingPrice": "872.00",
+    "profit": 9,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 81283,
+    "purchasePrice": "388.00",
+    "sellingPrice": "929.00",
+    "profit": 14,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 74284,
+    "purchasePrice": "643.00",
+    "sellingPrice": "36.00",
+    "profit": 15,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 4420,
+    "purchasePrice": "149.00",
+    "sellingPrice": "866.00",
+    "profit": 6,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 99832,
+    "purchasePrice": "386.00",
+    "sellingPrice": "222.00",
+    "profit": 6,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 10074,
+    "purchasePrice": "526.00",
+    "sellingPrice": "944.00",
+    "profit": 12,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 30408,
+    "purchasePrice": "111.00",
+    "sellingPrice": "78.00",
+    "profit": 19,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 89346,
+    "purchasePrice": "681.00",
+    "sellingPrice": "319.00",
+    "profit": 9,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 90316,
+    "purchasePrice": "844.00",
+    "sellingPrice": "554.00",
+    "profit": 6,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 52560,
+    "purchasePrice": "204.00",
+    "sellingPrice": "540.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 24830,
+    "purchasePrice": "193.00",
+    "sellingPrice": "379.00",
+    "profit": 20,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 18699,
+    "purchasePrice": "937.00",
+    "sellingPrice": "57.00",
+    "profit": 5,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 82128,
+    "purchasePrice": "760.00",
+    "sellingPrice": "685.00",
+    "profit": 11,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 65225,
+    "purchasePrice": "985.00",
+    "sellingPrice": "919.00",
+    "profit": 11,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 30206,
+    "purchasePrice": "439.00",
+    "sellingPrice": "343.00",
+    "profit": 6,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 82163,
+    "purchasePrice": "28.00",
+    "sellingPrice": "267.00",
+    "profit": 15,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 58087,
+    "purchasePrice": "273.00",
+    "sellingPrice": "656.00",
+    "profit": 12,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 48753,
+    "purchasePrice": "854.00",
+    "sellingPrice": "333.00",
+    "profit": 16,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 43851,
+    "purchasePrice": "815.00",
+    "sellingPrice": "521.00",
+    "profit": 12,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 6016,
+    "purchasePrice": "931.00",
+    "sellingPrice": "211.00",
+    "profit": 15,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 60810,
+    "purchasePrice": "2.00",
+    "sellingPrice": "923.00",
+    "profit": 7,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 98543,
+    "purchasePrice": "658.00",
+    "sellingPrice": "207.00",
+    "profit": 20,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 27871,
+    "purchasePrice": "756.00",
+    "sellingPrice": "596.00",
+    "profit": 12,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 59906,
+    "purchasePrice": "781.00",
+    "sellingPrice": "425.00",
+    "profit": 12,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 6340,
+    "purchasePrice": "232.00",
+    "sellingPrice": "873.00",
+    "profit": 11,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 7158,
+    "purchasePrice": "483.00",
+    "sellingPrice": "254.00",
+    "profit": 5,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 15936,
+    "purchasePrice": "212.00",
+    "sellingPrice": "832.00",
+    "profit": 19,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 34911,
+    "purchasePrice": "848.00",
+    "sellingPrice": "424.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 54544,
+    "purchasePrice": "552.00",
+    "sellingPrice": "530.00",
+    "profit": 6,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 92994,
+    "purchasePrice": "355.00",
+    "sellingPrice": "737.00",
+    "profit": 20,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 89627,
+    "purchasePrice": "181.00",
+    "sellingPrice": "217.00",
+    "profit": 16,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 47046,
+    "purchasePrice": "74.00",
+    "sellingPrice": "943.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 13454,
+    "purchasePrice": "671.00",
+    "sellingPrice": "398.00",
+    "profit": 9,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 31005,
+    "purchasePrice": "407.00",
+    "sellingPrice": "464.00",
+    "profit": 7,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 70624,
+    "purchasePrice": "632.00",
+    "sellingPrice": "647.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 83136,
+    "purchasePrice": "148.00",
+    "sellingPrice": "681.00",
+    "profit": 18,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 81672,
+    "purchasePrice": "128.00",
+    "sellingPrice": "88.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 5384,
+    "purchasePrice": "338.00",
+    "sellingPrice": "680.00",
+    "profit": 7,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 55011,
+    "purchasePrice": "535.00",
+    "sellingPrice": "979.00",
+    "profit": 13,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 44234,
+    "purchasePrice": "211.00",
+    "sellingPrice": "401.00",
+    "profit": 6,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 71614,
+    "purchasePrice": "509.00",
+    "sellingPrice": "301.00",
+    "profit": 19,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 48035,
+    "purchasePrice": "144.00",
+    "sellingPrice": "927.00",
+    "profit": 14,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 49307,
+    "purchasePrice": "346.00",
+    "sellingPrice": "904.00",
+    "profit": 8,
+    "status": "sold"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 64722,
+    "purchasePrice": "760.00",
+    "sellingPrice": "279.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 41198,
+    "purchasePrice": "214.00",
+    "sellingPrice": "624.00",
+    "profit": 14,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Cummings - Lubowitz",
+    "quantity": 51906,
+    "purchasePrice": "780.00",
+    "sellingPrice": "151.00",
+    "profit": 8,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 9745,
+    "purchasePrice": "373.00",
+    "sellingPrice": "223.00",
+    "profit": 15,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 52807,
+    "purchasePrice": "959.00",
+    "sellingPrice": "400.00",
+    "profit": 14,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 91117,
+    "purchasePrice": "326.00",
+    "sellingPrice": "849.00",
+    "profit": 6,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 55524,
+    "purchasePrice": "226.00",
+    "sellingPrice": "298.00",
+    "profit": 5,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 92187,
+    "purchasePrice": "624.00",
+    "sellingPrice": "32.00",
+    "profit": 18,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 37544,
+    "purchasePrice": "119.00",
+    "sellingPrice": "175.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 42143,
+    "purchasePrice": "821.00",
+    "sellingPrice": "316.00",
+    "profit": 11,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 82663,
+    "purchasePrice": "23.00",
+    "sellingPrice": "264.00",
+    "profit": 9,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 18768,
+    "purchasePrice": "373.00",
+    "sellingPrice": "382.00",
+    "profit": 18,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 9897,
+    "purchasePrice": "291.00",
+    "sellingPrice": "42.00",
+    "profit": 10,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 7850,
+    "purchasePrice": "15.00",
+    "sellingPrice": "927.00",
+    "profit": 12,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 48463,
+    "purchasePrice": "616.00",
+    "sellingPrice": "50.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 25044,
+    "purchasePrice": "78.00",
+    "sellingPrice": "994.00",
+    "profit": 8,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 63278,
+    "purchasePrice": "574.00",
+    "sellingPrice": "486.00",
+    "profit": 14,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 65658,
+    "purchasePrice": "949.00",
+    "sellingPrice": "801.00",
+    "profit": 15,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 38415,
+    "purchasePrice": "22.00",
+    "sellingPrice": "688.00",
+    "profit": 11,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 9683,
+    "purchasePrice": "522.00",
+    "sellingPrice": "322.00",
+    "profit": 13,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 16313,
+    "purchasePrice": "254.00",
+    "sellingPrice": "376.00",
+    "profit": 11,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 5106,
+    "purchasePrice": "94.00",
+    "sellingPrice": "24.00",
+    "profit": 15,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 15548,
+    "purchasePrice": "872.00",
+    "sellingPrice": "950.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 73199,
+    "purchasePrice": "807.00",
+    "sellingPrice": "822.00",
+    "profit": 6,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 5827,
+    "purchasePrice": "773.00",
+    "sellingPrice": "337.00",
+    "profit": 12,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 91614,
+    "purchasePrice": "12.00",
+    "sellingPrice": "450.00",
+    "profit": 18,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 55145,
+    "purchasePrice": "986.00",
+    "sellingPrice": "679.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 97810,
+    "purchasePrice": "480.00",
+    "sellingPrice": "991.00",
+    "profit": 17,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 26852,
+    "purchasePrice": "615.00",
+    "sellingPrice": "413.00",
+    "profit": 15,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 39891,
+    "purchasePrice": "989.00",
+    "sellingPrice": "574.00",
+    "profit": 5,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 13335,
+    "purchasePrice": "266.00",
+    "sellingPrice": "266.00",
+    "profit": 13,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 99551,
+    "purchasePrice": "979.00",
+    "sellingPrice": "583.00",
+    "profit": 11,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 46079,
+    "purchasePrice": "637.00",
+    "sellingPrice": "123.00",
+    "profit": 19,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 62746,
+    "purchasePrice": "302.00",
+    "sellingPrice": "129.00",
+    "profit": 15,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 59258,
+    "purchasePrice": "36.00",
+    "sellingPrice": "465.00",
+    "profit": 8,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 92804,
+    "purchasePrice": "577.00",
+    "sellingPrice": "464.00",
+    "profit": 5,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 65199,
+    "purchasePrice": "94.00",
+    "sellingPrice": "407.00",
+    "profit": 9,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 33694,
+    "purchasePrice": "552.00",
+    "sellingPrice": "858.00",
+    "profit": 14,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 21765,
+    "purchasePrice": "205.00",
+    "sellingPrice": "516.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 21021,
+    "purchasePrice": "385.00",
+    "sellingPrice": "608.00",
+    "profit": 17,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 70361,
+    "purchasePrice": "482.00",
+    "sellingPrice": "315.00",
+    "profit": 18,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 22647,
+    "purchasePrice": "358.00",
+    "sellingPrice": "651.00",
+    "profit": 6,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 26736,
+    "purchasePrice": "319.00",
+    "sellingPrice": "415.00",
+    "profit": 20,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 83468,
+    "purchasePrice": "246.00",
+    "sellingPrice": "511.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 46358,
+    "purchasePrice": "268.00",
+    "sellingPrice": "327.00",
+    "profit": 19,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 7418,
+    "purchasePrice": "606.00",
+    "sellingPrice": "965.00",
+    "profit": 11,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 26065,
+    "purchasePrice": "854.00",
+    "sellingPrice": "147.00",
+    "profit": 13,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 9313,
+    "purchasePrice": "767.00",
+    "sellingPrice": "136.00",
+    "profit": 5,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 69370,
+    "purchasePrice": "911.00",
+    "sellingPrice": "940.00",
+    "profit": 8,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 80203,
+    "purchasePrice": "759.00",
+    "sellingPrice": "873.00",
+    "profit": 8,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 63238,
+    "purchasePrice": "349.00",
+    "sellingPrice": "34.00",
+    "profit": 11,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 87356,
+    "purchasePrice": "79.00",
+    "sellingPrice": "519.00",
+    "profit": 8,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 73850,
+    "purchasePrice": "64.00",
+    "sellingPrice": "811.00",
+    "profit": 13,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 88626,
+    "purchasePrice": "419.00",
+    "sellingPrice": "887.00",
+    "profit": 11,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 10809,
+    "purchasePrice": "435.00",
+    "sellingPrice": "908.00",
+    "profit": 14,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 29381,
+    "purchasePrice": "150.00",
+    "sellingPrice": "713.00",
+    "profit": 19,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 68219,
+    "purchasePrice": "246.00",
+    "sellingPrice": "876.00",
+    "profit": 11,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 89519,
+    "purchasePrice": "295.00",
+    "sellingPrice": "525.00",
+    "profit": 13,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 84514,
+    "purchasePrice": "979.00",
+    "sellingPrice": "152.00",
+    "profit": 7,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 74414,
+    "purchasePrice": "331.00",
+    "sellingPrice": "909.00",
+    "profit": 16,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 66024,
+    "purchasePrice": "844.00",
+    "sellingPrice": "603.00",
+    "profit": 15,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 34359,
+    "purchasePrice": "234.00",
+    "sellingPrice": "977.00",
+    "profit": 18,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 27429,
+    "purchasePrice": "588.00",
+    "sellingPrice": "625.00",
+    "profit": 10,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 34088,
+    "purchasePrice": "506.00",
+    "sellingPrice": "63.00",
+    "profit": 16,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 48643,
+    "purchasePrice": "410.00",
+    "sellingPrice": "522.00",
+    "profit": 8,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 74506,
+    "purchasePrice": "285.00",
+    "sellingPrice": "850.00",
+    "profit": 5,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 16526,
+    "purchasePrice": "710.00",
+    "sellingPrice": "976.00",
+    "profit": 18,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 37198,
+    "purchasePrice": "509.00",
+    "sellingPrice": "81.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 31932,
+    "purchasePrice": "324.00",
+    "sellingPrice": "222.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 33362,
+    "purchasePrice": "301.00",
+    "sellingPrice": "50.00",
+    "profit": 13,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 61125,
+    "purchasePrice": "216.00",
+    "sellingPrice": "322.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 93219,
+    "purchasePrice": "980.00",
+    "sellingPrice": "58.00",
+    "profit": 6,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 21860,
+    "purchasePrice": "13.00",
+    "sellingPrice": "697.00",
+    "profit": 5,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 44678,
+    "purchasePrice": "826.00",
+    "sellingPrice": "535.00",
+    "profit": 9,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 12440,
+    "purchasePrice": "333.00",
+    "sellingPrice": "149.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 410,
+    "purchasePrice": "367.00",
+    "sellingPrice": "7.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 45473,
+    "purchasePrice": "977.00",
+    "sellingPrice": "815.00",
+    "profit": 18,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 98459,
+    "purchasePrice": "256.00",
+    "sellingPrice": "281.00",
+    "profit": 13,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 24977,
+    "purchasePrice": "907.00",
+    "sellingPrice": "113.00",
+    "profit": 5,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 67036,
+    "purchasePrice": "165.00",
+    "sellingPrice": "13.00",
+    "profit": 15,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 76846,
+    "purchasePrice": "386.00",
+    "sellingPrice": "564.00",
+    "profit": 8,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 3722,
+    "purchasePrice": "454.00",
+    "sellingPrice": "586.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 22595,
+    "purchasePrice": "444.00",
+    "sellingPrice": "69.00",
+    "profit": 6,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 11449,
+    "purchasePrice": "336.00",
+    "sellingPrice": "630.00",
+    "profit": 14,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 9403,
+    "purchasePrice": "82.00",
+    "sellingPrice": "341.00",
+    "profit": 11,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 1884,
+    "purchasePrice": "689.00",
+    "sellingPrice": "301.00",
+    "profit": 18,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 55410,
+    "purchasePrice": "11.00",
+    "sellingPrice": "24.00",
+    "profit": 5,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 2260,
+    "purchasePrice": "333.00",
+    "sellingPrice": "961.00",
+    "profit": 9,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 85660,
+    "purchasePrice": "762.00",
+    "sellingPrice": "417.00",
+    "profit": 9,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 55158,
+    "purchasePrice": "909.00",
+    "sellingPrice": "348.00",
+    "profit": 16,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 22550,
+    "purchasePrice": "796.00",
+    "sellingPrice": "388.00",
+    "profit": 11,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 66901,
+    "purchasePrice": "187.00",
+    "sellingPrice": "826.00",
+    "profit": 8,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 67911,
+    "purchasePrice": "496.00",
+    "sellingPrice": "633.00",
+    "profit": 8,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 63097,
+    "purchasePrice": "748.00",
+    "sellingPrice": "415.00",
+    "profit": 19,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 35042,
+    "purchasePrice": "1000.00",
+    "sellingPrice": "804.00",
+    "profit": 15,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 88277,
+    "purchasePrice": "235.00",
+    "sellingPrice": "66.00",
+    "profit": 16,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 44974,
+    "purchasePrice": "576.00",
+    "sellingPrice": "311.00",
+    "profit": 7,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 99951,
+    "purchasePrice": "445.00",
+    "sellingPrice": "483.00",
+    "profit": 20,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 89991,
+    "purchasePrice": "747.00",
+    "sellingPrice": "997.00",
+    "profit": 9,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 5545,
+    "purchasePrice": "728.00",
+    "sellingPrice": "681.00",
+    "profit": 20,
+    "status": "sold"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 29838,
+    "purchasePrice": "615.00",
+    "sellingPrice": "842.00",
+    "profit": 15,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 52694,
+    "purchasePrice": "588.00",
+    "sellingPrice": "212.00",
+    "profit": 20,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Monahan - Bailey",
+    "quantity": 1696,
+    "purchasePrice": "997.00",
+    "sellingPrice": "670.00",
+    "profit": 12,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 86788,
+    "purchasePrice": "131.00",
+    "sellingPrice": "701.00",
+    "profit": 12,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 87788,
+    "purchasePrice": "173.00",
+    "sellingPrice": "462.00",
+    "profit": 17,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 44655,
+    "purchasePrice": "948.00",
+    "sellingPrice": "582.00",
+    "profit": 16,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 5004,
+    "purchasePrice": "671.00",
+    "sellingPrice": "806.00",
+    "profit": 18,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 23099,
+    "purchasePrice": "962.00",
+    "sellingPrice": "392.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 62990,
+    "purchasePrice": "469.00",
+    "sellingPrice": "541.00",
+    "profit": 13,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 22378,
+    "purchasePrice": "658.00",
+    "sellingPrice": "653.00",
+    "profit": 20,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 94382,
+    "purchasePrice": "794.00",
+    "sellingPrice": "423.00",
+    "profit": 5,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 27464,
+    "purchasePrice": "815.00",
+    "sellingPrice": "345.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 86951,
+    "purchasePrice": "988.00",
+    "sellingPrice": "827.00",
+    "profit": 13,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 81152,
+    "purchasePrice": "329.00",
+    "sellingPrice": "443.00",
+    "profit": 15,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 18881,
+    "purchasePrice": "791.00",
+    "sellingPrice": "479.00",
+    "profit": 15,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 56322,
+    "purchasePrice": "304.00",
+    "sellingPrice": "120.00",
+    "profit": 8,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 14803,
+    "purchasePrice": "172.00",
+    "sellingPrice": "140.00",
+    "profit": 14,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 22907,
+    "purchasePrice": "823.00",
+    "sellingPrice": "380.00",
+    "profit": 10,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 93844,
+    "purchasePrice": "342.00",
+    "sellingPrice": "169.00",
+    "profit": 6,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 1124,
+    "purchasePrice": "782.00",
+    "sellingPrice": "727.00",
+    "profit": 15,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 97346,
+    "purchasePrice": "294.00",
+    "sellingPrice": "146.00",
+    "profit": 6,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 55935,
+    "purchasePrice": "604.00",
+    "sellingPrice": "224.00",
+    "profit": 16,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 8924,
+    "purchasePrice": "942.00",
+    "sellingPrice": "408.00",
+    "profit": 19,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 69503,
+    "purchasePrice": "914.00",
+    "sellingPrice": "695.00",
+    "profit": 20,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 64612,
+    "purchasePrice": "969.00",
+    "sellingPrice": "850.00",
+    "profit": 6,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 89048,
+    "purchasePrice": "679.00",
+    "sellingPrice": "555.00",
+    "profit": 19,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 45351,
+    "purchasePrice": "963.00",
+    "sellingPrice": "988.00",
+    "profit": 20,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 36333,
+    "purchasePrice": "444.00",
+    "sellingPrice": "859.00",
+    "profit": 11,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 79966,
+    "purchasePrice": "799.00",
+    "sellingPrice": "609.00",
+    "profit": 19,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 6369,
+    "purchasePrice": "932.00",
+    "sellingPrice": "807.00",
+    "profit": 5,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 37352,
+    "purchasePrice": "343.00",
+    "sellingPrice": "23.00",
+    "profit": 13,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 88160,
+    "purchasePrice": "375.00",
+    "sellingPrice": "123.00",
+    "profit": 6,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 36083,
+    "purchasePrice": "452.00",
+    "sellingPrice": "362.00",
+    "profit": 18,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 48986,
+    "purchasePrice": "203.00",
+    "sellingPrice": "211.00",
+    "profit": 5,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 30018,
+    "purchasePrice": "891.00",
+    "sellingPrice": "914.00",
+    "profit": 8,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 48180,
+    "purchasePrice": "582.00",
+    "sellingPrice": "348.00",
+    "profit": 12,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 31435,
+    "purchasePrice": "600.00",
+    "sellingPrice": "277.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 98005,
+    "purchasePrice": "517.00",
+    "sellingPrice": "937.00",
+    "profit": 18,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 10547,
+    "purchasePrice": "9.00",
+    "sellingPrice": "870.00",
+    "profit": 10,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 64399,
+    "purchasePrice": "183.00",
+    "sellingPrice": "348.00",
+    "profit": 6,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 1206,
+    "purchasePrice": "478.00",
+    "sellingPrice": "30.00",
+    "profit": 11,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 91010,
+    "purchasePrice": "776.00",
+    "sellingPrice": "270.00",
+    "profit": 8,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 37057,
+    "purchasePrice": "918.00",
+    "sellingPrice": "20.00",
+    "profit": 9,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 54312,
+    "purchasePrice": "476.00",
+    "sellingPrice": "567.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 90277,
+    "purchasePrice": "979.00",
+    "sellingPrice": "688.00",
+    "profit": 13,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 41288,
+    "purchasePrice": "861.00",
+    "sellingPrice": "253.00",
+    "profit": 12,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 532,
+    "purchasePrice": "582.00",
+    "sellingPrice": "919.00",
+    "profit": 9,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 58158,
+    "purchasePrice": "689.00",
+    "sellingPrice": "373.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 28356,
+    "purchasePrice": "528.00",
+    "sellingPrice": "819.00",
+    "profit": 16,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 64572,
+    "purchasePrice": "528.00",
+    "sellingPrice": "138.00",
+    "profit": 5,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 75406,
+    "purchasePrice": "331.00",
+    "sellingPrice": "830.00",
+    "profit": 9,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 27276,
+    "purchasePrice": "840.00",
+    "sellingPrice": "37.00",
+    "profit": 20,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 32932,
+    "purchasePrice": "333.00",
+    "sellingPrice": "830.00",
+    "profit": 9,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 62286,
+    "purchasePrice": "734.00",
+    "sellingPrice": "199.00",
+    "profit": 15,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 54159,
+    "purchasePrice": "141.00",
+    "sellingPrice": "888.00",
+    "profit": 11,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 2767,
+    "purchasePrice": "1000.00",
+    "sellingPrice": "16.00",
+    "profit": 11,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 31256,
+    "purchasePrice": "449.00",
+    "sellingPrice": "408.00",
+    "profit": 6,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 11759,
+    "purchasePrice": "480.00",
+    "sellingPrice": "986.00",
+    "profit": 12,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 87216,
+    "purchasePrice": "259.00",
+    "sellingPrice": "361.00",
+    "profit": 16,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 38825,
+    "purchasePrice": "602.00",
+    "sellingPrice": "525.00",
+    "profit": 20,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 56283,
+    "purchasePrice": "123.00",
+    "sellingPrice": "911.00",
+    "profit": 9,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 56952,
+    "purchasePrice": "301.00",
+    "sellingPrice": "694.00",
+    "profit": 17,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 80439,
+    "purchasePrice": "175.00",
+    "sellingPrice": "901.00",
+    "profit": 12,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 20184,
+    "purchasePrice": "34.00",
+    "sellingPrice": "487.00",
+    "profit": 20,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 67680,
+    "purchasePrice": "479.00",
+    "sellingPrice": "288.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 36351,
+    "purchasePrice": "390.00",
+    "sellingPrice": "426.00",
+    "profit": 10,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 84112,
+    "purchasePrice": "825.00",
+    "sellingPrice": "400.00",
+    "profit": 19,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 40549,
+    "purchasePrice": "186.00",
+    "sellingPrice": "252.00",
+    "profit": 20,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 13825,
+    "purchasePrice": "737.00",
+    "sellingPrice": "869.00",
+    "profit": 17,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 83015,
+    "purchasePrice": "962.00",
+    "sellingPrice": "651.00",
+    "profit": 7,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 70940,
+    "purchasePrice": "763.00",
+    "sellingPrice": "388.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 72368,
+    "purchasePrice": "890.00",
+    "sellingPrice": "266.00",
+    "profit": 20,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 230,
+    "purchasePrice": "81.00",
+    "sellingPrice": "496.00",
+    "profit": 6,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 48749,
+    "purchasePrice": "832.00",
+    "sellingPrice": "462.00",
+    "profit": 20,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 81435,
+    "purchasePrice": "69.00",
+    "sellingPrice": "349.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 26824,
+    "purchasePrice": "248.00",
+    "sellingPrice": "992.00",
+    "profit": 9,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 93228,
+    "purchasePrice": "614.00",
+    "sellingPrice": "983.00",
+    "profit": 7,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 45314,
+    "purchasePrice": "475.00",
+    "sellingPrice": "855.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 18828,
+    "purchasePrice": "893.00",
+    "sellingPrice": "272.00",
+    "profit": 20,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 41110,
+    "purchasePrice": "480.00",
+    "sellingPrice": "485.00",
+    "profit": 15,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 98907,
+    "purchasePrice": "312.00",
+    "sellingPrice": "664.00",
+    "profit": 17,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 58672,
+    "purchasePrice": "781.00",
+    "sellingPrice": "486.00",
+    "profit": 16,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 12324,
+    "purchasePrice": "459.00",
+    "sellingPrice": "231.00",
+    "profit": 6,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 42208,
+    "purchasePrice": "761.00",
+    "sellingPrice": "968.00",
+    "profit": 7,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 1322,
+    "purchasePrice": "566.00",
+    "sellingPrice": "347.00",
+    "profit": 18,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 79856,
+    "purchasePrice": "232.00",
+    "sellingPrice": "406.00",
+    "profit": 10,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 27384,
+    "purchasePrice": "701.00",
+    "sellingPrice": "221.00",
+    "profit": 16,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 92779,
+    "purchasePrice": "504.00",
+    "sellingPrice": "248.00",
+    "profit": 7,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 5982,
+    "purchasePrice": "24.00",
+    "sellingPrice": "74.00",
+    "profit": 18,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 25685,
+    "purchasePrice": "843.00",
+    "sellingPrice": "925.00",
+    "profit": 15,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 45540,
+    "purchasePrice": "96.00",
+    "sellingPrice": "381.00",
+    "profit": 8,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 185,
+    "purchasePrice": "741.00",
+    "sellingPrice": "392.00",
+    "profit": 10,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 49408,
+    "purchasePrice": "715.00",
+    "sellingPrice": "657.00",
+    "profit": 16,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 56773,
+    "purchasePrice": "210.00",
+    "sellingPrice": "314.00",
+    "profit": 5,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 15854,
+    "purchasePrice": "715.00",
+    "sellingPrice": "457.00",
+    "profit": 11,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 22011,
+    "purchasePrice": "145.00",
+    "sellingPrice": "903.00",
+    "profit": 18,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 57791,
+    "purchasePrice": "940.00",
+    "sellingPrice": "2.00",
+    "profit": 13,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 9519,
+    "purchasePrice": "311.00",
+    "sellingPrice": "800.00",
+    "profit": 18,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 69834,
+    "purchasePrice": "843.00",
+    "sellingPrice": "789.00",
+    "profit": 10,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 74918,
+    "purchasePrice": "916.00",
+    "sellingPrice": "331.00",
+    "profit": 10,
+    "status": "sold"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 12640,
+    "purchasePrice": "635.00",
+    "sellingPrice": "544.00",
+    "profit": 11,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 22377,
+    "purchasePrice": "329.00",
+    "sellingPrice": "717.00",
+    "profit": 17,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Walsh LLC",
+    "quantity": 74581,
+    "purchasePrice": "809.00",
+    "sellingPrice": "65.00",
+    "profit": 19,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 71603,
+    "purchasePrice": "957.00",
+    "sellingPrice": "902.00",
+    "profit": 17,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 19408,
+    "purchasePrice": "22.00",
+    "sellingPrice": "788.00",
+    "profit": 20,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 55896,
+    "purchasePrice": "88.00",
+    "sellingPrice": "909.00",
+    "profit": 10,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 69240,
+    "purchasePrice": "542.00",
+    "sellingPrice": "326.00",
+    "profit": 10,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 10317,
+    "purchasePrice": "490.00",
+    "sellingPrice": "287.00",
+    "profit": 17,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 21761,
+    "purchasePrice": "26.00",
+    "sellingPrice": "851.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 41989,
+    "purchasePrice": "955.00",
+    "sellingPrice": "795.00",
+    "profit": 20,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 67532,
+    "purchasePrice": "957.00",
+    "sellingPrice": "624.00",
+    "profit": 6,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 50694,
+    "purchasePrice": "278.00",
+    "sellingPrice": "187.00",
+    "profit": 16,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 90754,
+    "purchasePrice": "607.00",
+    "sellingPrice": "881.00",
+    "profit": 16,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 34699,
+    "purchasePrice": "923.00",
+    "sellingPrice": "442.00",
+    "profit": 13,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 81378,
+    "purchasePrice": "417.00",
+    "sellingPrice": "56.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 65635,
+    "purchasePrice": "153.00",
+    "sellingPrice": "962.00",
+    "profit": 17,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 84239,
+    "purchasePrice": "172.00",
+    "sellingPrice": "550.00",
+    "profit": 19,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 49579,
+    "purchasePrice": "324.00",
+    "sellingPrice": "451.00",
+    "profit": 18,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 34099,
+    "purchasePrice": "4.00",
+    "sellingPrice": "457.00",
+    "profit": 11,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 19116,
+    "purchasePrice": "188.00",
+    "sellingPrice": "27.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 12577,
+    "purchasePrice": "619.00",
+    "sellingPrice": "105.00",
+    "profit": 15,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 40698,
+    "purchasePrice": "374.00",
+    "sellingPrice": "505.00",
+    "profit": 12,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 73929,
+    "purchasePrice": "307.00",
+    "sellingPrice": "147.00",
+    "profit": 16,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 88450,
+    "purchasePrice": "616.00",
+    "sellingPrice": "424.00",
+    "profit": 20,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 28057,
+    "purchasePrice": "754.00",
+    "sellingPrice": "878.00",
+    "profit": 19,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 66448,
+    "purchasePrice": "311.00",
+    "sellingPrice": "37.00",
+    "profit": 18,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 49566,
+    "purchasePrice": "773.00",
+    "sellingPrice": "192.00",
+    "profit": 13,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 43745,
+    "purchasePrice": "939.00",
+    "sellingPrice": "735.00",
+    "profit": 14,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 13044,
+    "purchasePrice": "62.00",
+    "sellingPrice": "326.00",
+    "profit": 9,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 69214,
+    "purchasePrice": "819.00",
+    "sellingPrice": "966.00",
+    "profit": 5,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 10520,
+    "purchasePrice": "689.00",
+    "sellingPrice": "783.00",
+    "profit": 10,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 70884,
+    "purchasePrice": "804.00",
+    "sellingPrice": "620.00",
+    "profit": 10,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 28587,
+    "purchasePrice": "136.00",
+    "sellingPrice": "104.00",
+    "profit": 19,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 87760,
+    "purchasePrice": "93.00",
+    "sellingPrice": "112.00",
+    "profit": 12,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 36766,
+    "purchasePrice": "684.00",
+    "sellingPrice": "49.00",
+    "profit": 11,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 1363,
+    "purchasePrice": "554.00",
+    "sellingPrice": "416.00",
+    "profit": 11,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 78999,
+    "purchasePrice": "803.00",
+    "sellingPrice": "700.00",
+    "profit": 12,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 23889,
+    "purchasePrice": "718.00",
+    "sellingPrice": "139.00",
+    "profit": 13,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 40354,
+    "purchasePrice": "917.00",
+    "sellingPrice": "647.00",
+    "profit": 5,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 97290,
+    "purchasePrice": "587.00",
+    "sellingPrice": "788.00",
+    "profit": 7,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 23413,
+    "purchasePrice": "658.00",
+    "sellingPrice": "609.00",
+    "profit": 8,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 7392,
+    "purchasePrice": "147.00",
+    "sellingPrice": "749.00",
+    "profit": 8,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 56638,
+    "purchasePrice": "539.00",
+    "sellingPrice": "109.00",
+    "profit": 10,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 97982,
+    "purchasePrice": "505.00",
+    "sellingPrice": "481.00",
+    "profit": 8,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 94971,
+    "purchasePrice": "6.00",
+    "sellingPrice": "5.00",
+    "profit": 11,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 34309,
+    "purchasePrice": "251.00",
+    "sellingPrice": "933.00",
+    "profit": 16,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 81249,
+    "purchasePrice": "600.00",
+    "sellingPrice": "903.00",
+    "profit": 12,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 22888,
+    "purchasePrice": "170.00",
+    "sellingPrice": "134.00",
+    "profit": 5,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 12622,
+    "purchasePrice": "785.00",
+    "sellingPrice": "304.00",
+    "profit": 9,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 69108,
+    "purchasePrice": "990.00",
+    "sellingPrice": "828.00",
+    "profit": 14,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 6542,
+    "purchasePrice": "190.00",
+    "sellingPrice": "204.00",
+    "profit": 11,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 16181,
+    "purchasePrice": "501.00",
+    "sellingPrice": "192.00",
+    "profit": 16,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 54365,
+    "purchasePrice": "526.00",
+    "sellingPrice": "133.00",
+    "profit": 14,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 34797,
+    "purchasePrice": "462.00",
+    "sellingPrice": "755.00",
+    "profit": 17,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 57102,
+    "purchasePrice": "133.00",
+    "sellingPrice": "563.00",
+    "profit": 14,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 1601,
+    "purchasePrice": "452.00",
+    "sellingPrice": "501.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 95669,
+    "purchasePrice": "359.00",
+    "sellingPrice": "662.00",
+    "profit": 9,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 17021,
+    "purchasePrice": "2.00",
+    "sellingPrice": "75.00",
+    "profit": 5,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 14816,
+    "purchasePrice": "206.00",
+    "sellingPrice": "995.00",
+    "profit": 11,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 95894,
+    "purchasePrice": "728.00",
+    "sellingPrice": "169.00",
+    "profit": 18,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 1139,
+    "purchasePrice": "233.00",
+    "sellingPrice": "804.00",
+    "profit": 18,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 56624,
+    "purchasePrice": "566.00",
+    "sellingPrice": "766.00",
+    "profit": 11,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 25388,
+    "purchasePrice": "277.00",
+    "sellingPrice": "422.00",
+    "profit": 8,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 70215,
+    "purchasePrice": "484.00",
+    "sellingPrice": "171.00",
+    "profit": 19,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 40696,
+    "purchasePrice": "449.00",
+    "sellingPrice": "768.00",
+    "profit": 16,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 9419,
+    "purchasePrice": "711.00",
+    "sellingPrice": "376.00",
+    "profit": 20,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 2592,
+    "purchasePrice": "373.00",
+    "sellingPrice": "659.00",
+    "profit": 14,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 92404,
+    "purchasePrice": "308.00",
+    "sellingPrice": "383.00",
+    "profit": 14,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 21343,
+    "purchasePrice": "103.00",
+    "sellingPrice": "454.00",
+    "profit": 16,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 35419,
+    "purchasePrice": "338.00",
+    "sellingPrice": "870.00",
+    "profit": 19,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 36472,
+    "purchasePrice": "854.00",
+    "sellingPrice": "242.00",
+    "profit": 16,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 58020,
+    "purchasePrice": "496.00",
+    "sellingPrice": "813.00",
+    "profit": 5,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 4928,
+    "purchasePrice": "282.00",
+    "sellingPrice": "444.00",
+    "profit": 14,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 5531,
+    "purchasePrice": "388.00",
+    "sellingPrice": "727.00",
+    "profit": 12,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 97238,
+    "purchasePrice": "952.00",
+    "sellingPrice": "885.00",
+    "profit": 7,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 47220,
+    "purchasePrice": "391.00",
+    "sellingPrice": "649.00",
+    "profit": 15,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 23227,
+    "purchasePrice": "933.00",
+    "sellingPrice": "525.00",
+    "profit": 11,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 20813,
+    "purchasePrice": "548.00",
+    "sellingPrice": "630.00",
+    "profit": 16,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 34802,
+    "purchasePrice": "789.00",
+    "sellingPrice": "327.00",
+    "profit": 11,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 36392,
+    "purchasePrice": "763.00",
+    "sellingPrice": "911.00",
+    "profit": 18,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 16942,
+    "purchasePrice": "750.00",
+    "sellingPrice": "847.00",
+    "profit": 17,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 26850,
+    "purchasePrice": "174.00",
+    "sellingPrice": "254.00",
+    "profit": 6,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 61745,
+    "purchasePrice": "926.00",
+    "sellingPrice": "35.00",
+    "profit": 6,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 95040,
+    "purchasePrice": "117.00",
+    "sellingPrice": "289.00",
+    "profit": 13,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 14954,
+    "purchasePrice": "724.00",
+    "sellingPrice": "151.00",
+    "profit": 7,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 75723,
+    "purchasePrice": "857.00",
+    "sellingPrice": "666.00",
+    "profit": 10,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 81019,
+    "purchasePrice": "518.00",
+    "sellingPrice": "939.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 73664,
+    "purchasePrice": "103.00",
+    "sellingPrice": "998.00",
+    "profit": 9,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 21363,
+    "purchasePrice": "999.00",
+    "sellingPrice": "395.00",
+    "profit": 8,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 61297,
+    "purchasePrice": "556.00",
+    "sellingPrice": "466.00",
+    "profit": 14,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 25871,
+    "purchasePrice": "332.00",
+    "sellingPrice": "751.00",
+    "profit": 12,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 77047,
+    "purchasePrice": "588.00",
+    "sellingPrice": "950.00",
+    "profit": 12,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 24273,
+    "purchasePrice": "950.00",
+    "sellingPrice": "837.00",
+    "profit": 10,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 95225,
+    "purchasePrice": "823.00",
+    "sellingPrice": "373.00",
+    "profit": 20,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 54973,
+    "purchasePrice": "835.00",
+    "sellingPrice": "561.00",
+    "profit": 10,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 87020,
+    "purchasePrice": "769.00",
+    "sellingPrice": "575.00",
+    "profit": 18,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 44635,
+    "purchasePrice": "883.00",
+    "sellingPrice": "785.00",
+    "profit": 8,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 34291,
+    "purchasePrice": "280.00",
+    "sellingPrice": "811.00",
+    "profit": 20,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 593,
+    "purchasePrice": "268.00",
+    "sellingPrice": "163.00",
+    "profit": 6,
+    "status": "sold"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 37694,
+    "purchasePrice": "814.00",
+    "sellingPrice": "270.00",
+    "profit": 9,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 38541,
+    "purchasePrice": "224.00",
+    "sellingPrice": "761.00",
+    "profit": 12,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 33201,
+    "purchasePrice": "130.00",
+    "sellingPrice": "249.00",
+    "profit": 13,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Durgan - Marvin",
+    "quantity": 75541,
+    "purchasePrice": "133.00",
+    "sellingPrice": "59.00",
+    "profit": 15,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 64564,
+    "purchasePrice": "27.00",
+    "sellingPrice": "817.00",
+    "profit": 19,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 54200,
+    "purchasePrice": "221.00",
+    "sellingPrice": "448.00",
+    "profit": 6,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 77319,
+    "purchasePrice": "115.00",
+    "sellingPrice": "968.00",
+    "profit": 12,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 9789,
+    "purchasePrice": "439.00",
+    "sellingPrice": "825.00",
+    "profit": 10,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 59501,
+    "purchasePrice": "946.00",
+    "sellingPrice": "83.00",
+    "profit": 15,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 16911,
+    "purchasePrice": "515.00",
+    "sellingPrice": "830.00",
+    "profit": 6,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 71149,
+    "purchasePrice": "250.00",
+    "sellingPrice": "12.00",
+    "profit": 5,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 64542,
+    "purchasePrice": "976.00",
+    "sellingPrice": "828.00",
+    "profit": 16,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 46048,
+    "purchasePrice": "893.00",
+    "sellingPrice": "304.00",
+    "profit": 18,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 12677,
+    "purchasePrice": "387.00",
+    "sellingPrice": "486.00",
+    "profit": 12,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 48709,
+    "purchasePrice": "326.00",
+    "sellingPrice": "73.00",
+    "profit": 9,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 41123,
+    "purchasePrice": "532.00",
+    "sellingPrice": "34.00",
+    "profit": 9,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 64009,
+    "purchasePrice": "965.00",
+    "sellingPrice": "267.00",
+    "profit": 13,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 31359,
+    "purchasePrice": "782.00",
+    "sellingPrice": "997.00",
+    "profit": 15,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 65176,
+    "purchasePrice": "707.00",
+    "sellingPrice": "200.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 98687,
+    "purchasePrice": "313.00",
+    "sellingPrice": "194.00",
+    "profit": 13,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 53014,
+    "purchasePrice": "848.00",
+    "sellingPrice": "83.00",
+    "profit": 6,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 53177,
+    "purchasePrice": "998.00",
+    "sellingPrice": "752.00",
+    "profit": 6,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 76599,
+    "purchasePrice": "651.00",
+    "sellingPrice": "416.00",
+    "profit": 8,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 1073,
+    "purchasePrice": "729.00",
+    "sellingPrice": "209.00",
+    "profit": 6,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 58194,
+    "purchasePrice": "823.00",
+    "sellingPrice": "416.00",
+    "profit": 5,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 73041,
+    "purchasePrice": "477.00",
+    "sellingPrice": "96.00",
+    "profit": 17,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 43398,
+    "purchasePrice": "909.00",
+    "sellingPrice": "928.00",
+    "profit": 12,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 34797,
+    "purchasePrice": "881.00",
+    "sellingPrice": "832.00",
+    "profit": 16,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 76017,
+    "purchasePrice": "567.00",
+    "sellingPrice": "929.00",
+    "profit": 13,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 15789,
+    "purchasePrice": "385.00",
+    "sellingPrice": "677.00",
+    "profit": 15,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 33959,
+    "purchasePrice": "65.00",
+    "sellingPrice": "465.00",
+    "profit": 20,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 93412,
+    "purchasePrice": "667.00",
+    "sellingPrice": "181.00",
+    "profit": 13,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 84303,
+    "purchasePrice": "319.00",
+    "sellingPrice": "238.00",
+    "profit": 6,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 9112,
+    "purchasePrice": "10.00",
+    "sellingPrice": "855.00",
+    "profit": 10,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 88477,
+    "purchasePrice": "867.00",
+    "sellingPrice": "914.00",
+    "profit": 18,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 66800,
+    "purchasePrice": "646.00",
+    "sellingPrice": "392.00",
+    "profit": 9,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 82331,
+    "purchasePrice": "857.00",
+    "sellingPrice": "79.00",
+    "profit": 16,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 40750,
+    "purchasePrice": "705.00",
+    "sellingPrice": "640.00",
+    "profit": 5,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 45388,
+    "purchasePrice": "97.00",
+    "sellingPrice": "191.00",
+    "profit": 18,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 4000,
+    "purchasePrice": "288.00",
+    "sellingPrice": "986.00",
+    "profit": 17,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 30812,
+    "purchasePrice": "274.00",
+    "sellingPrice": "290.00",
+    "profit": 17,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 72402,
+    "purchasePrice": "143.00",
+    "sellingPrice": "776.00",
+    "profit": 8,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 41066,
+    "purchasePrice": "413.00",
+    "sellingPrice": "796.00",
+    "profit": 17,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 1622,
+    "purchasePrice": "226.00",
+    "sellingPrice": "268.00",
+    "profit": 16,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 70055,
+    "purchasePrice": "499.00",
+    "sellingPrice": "805.00",
+    "profit": 17,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 59863,
+    "purchasePrice": "124.00",
+    "sellingPrice": "678.00",
+    "profit": 18,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 1688,
+    "purchasePrice": "524.00",
+    "sellingPrice": "744.00",
+    "profit": 19,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 79657,
+    "purchasePrice": "735.00",
+    "sellingPrice": "208.00",
+    "profit": 14,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 87775,
+    "purchasePrice": "196.00",
+    "sellingPrice": "581.00",
+    "profit": 5,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 91510,
+    "purchasePrice": "865.00",
+    "sellingPrice": "901.00",
+    "profit": 13,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 59686,
+    "purchasePrice": "428.00",
+    "sellingPrice": "102.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 6486,
+    "purchasePrice": "134.00",
+    "sellingPrice": "962.00",
+    "profit": 9,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 13981,
+    "purchasePrice": "610.00",
+    "sellingPrice": "164.00",
+    "profit": 5,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 12941,
+    "purchasePrice": "276.00",
+    "sellingPrice": "366.00",
+    "profit": 9,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 8379,
+    "purchasePrice": "218.00",
+    "sellingPrice": "945.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 91884,
+    "purchasePrice": "20.00",
+    "sellingPrice": "186.00",
+    "profit": 11,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 49307,
+    "purchasePrice": "298.00",
+    "sellingPrice": "723.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 61446,
+    "purchasePrice": "236.00",
+    "sellingPrice": "828.00",
+    "profit": 9,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 64909,
+    "purchasePrice": "342.00",
+    "sellingPrice": "221.00",
+    "profit": 13,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 27045,
+    "purchasePrice": "406.00",
+    "sellingPrice": "837.00",
+    "profit": 17,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 2175,
+    "purchasePrice": "350.00",
+    "sellingPrice": "555.00",
+    "profit": 18,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 32788,
+    "purchasePrice": "653.00",
+    "sellingPrice": "568.00",
+    "profit": 13,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 53495,
+    "purchasePrice": "687.00",
+    "sellingPrice": "299.00",
+    "profit": 19,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 40124,
+    "purchasePrice": "673.00",
+    "sellingPrice": "214.00",
+    "profit": 20,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 13313,
+    "purchasePrice": "261.00",
+    "sellingPrice": "945.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 89478,
+    "purchasePrice": "35.00",
+    "sellingPrice": "709.00",
+    "profit": 18,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 60566,
+    "purchasePrice": "73.00",
+    "sellingPrice": "726.00",
+    "profit": 18,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 62066,
+    "purchasePrice": "965.00",
+    "sellingPrice": "519.00",
+    "profit": 6,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 14821,
+    "purchasePrice": "424.00",
+    "sellingPrice": "642.00",
+    "profit": 14,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 67088,
+    "purchasePrice": "941.00",
+    "sellingPrice": "308.00",
+    "profit": 8,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 21967,
+    "purchasePrice": "46.00",
+    "sellingPrice": "967.00",
+    "profit": 20,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 37975,
+    "purchasePrice": "645.00",
+    "sellingPrice": "28.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 19652,
+    "purchasePrice": "206.00",
+    "sellingPrice": "765.00",
+    "profit": 12,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 90720,
+    "purchasePrice": "354.00",
+    "sellingPrice": "891.00",
+    "profit": 6,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 22869,
+    "purchasePrice": "273.00",
+    "sellingPrice": "896.00",
+    "profit": 6,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 71610,
+    "purchasePrice": "697.00",
+    "sellingPrice": "676.00",
+    "profit": 20,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 71331,
+    "purchasePrice": "544.00",
+    "sellingPrice": "852.00",
+    "profit": 5,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 74836,
+    "purchasePrice": "775.00",
+    "sellingPrice": "619.00",
+    "profit": 7,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 99620,
+    "purchasePrice": "317.00",
+    "sellingPrice": "811.00",
+    "profit": 16,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 56882,
+    "purchasePrice": "947.00",
+    "sellingPrice": "241.00",
+    "profit": 20,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 5784,
+    "purchasePrice": "405.00",
+    "sellingPrice": "847.00",
+    "profit": 7,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 89828,
+    "purchasePrice": "328.00",
+    "sellingPrice": "811.00",
+    "profit": 11,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 46300,
+    "purchasePrice": "445.00",
+    "sellingPrice": "120.00",
+    "profit": 17,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 76696,
+    "purchasePrice": "437.00",
+    "sellingPrice": "742.00",
+    "profit": 11,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 38000,
+    "purchasePrice": "649.00",
+    "sellingPrice": "716.00",
+    "profit": 20,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 28052,
+    "purchasePrice": "433.00",
+    "sellingPrice": "715.00",
+    "profit": 6,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 7911,
+    "purchasePrice": "271.00",
+    "sellingPrice": "511.00",
+    "profit": 9,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 35333,
+    "purchasePrice": "174.00",
+    "sellingPrice": "296.00",
+    "profit": 6,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 57823,
+    "purchasePrice": "553.00",
+    "sellingPrice": "614.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 77973,
+    "purchasePrice": "115.00",
+    "sellingPrice": "479.00",
+    "profit": 11,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 6098,
+    "purchasePrice": "422.00",
+    "sellingPrice": "474.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 70286,
+    "purchasePrice": "860.00",
+    "sellingPrice": "508.00",
+    "profit": 20,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 19728,
+    "purchasePrice": "490.00",
+    "sellingPrice": "189.00",
+    "profit": 18,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 21735,
+    "purchasePrice": "932.00",
+    "sellingPrice": "366.00",
+    "profit": 5,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 7306,
+    "purchasePrice": "568.00",
+    "sellingPrice": "23.00",
+    "profit": 11,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 11580,
+    "purchasePrice": "942.00",
+    "sellingPrice": "810.00",
+    "profit": 10,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 73306,
+    "purchasePrice": "290.00",
+    "sellingPrice": "819.00",
+    "profit": 20,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 74680,
+    "purchasePrice": "417.00",
+    "sellingPrice": "209.00",
+    "profit": 19,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 10847,
+    "purchasePrice": "764.00",
+    "sellingPrice": "335.00",
+    "profit": 13,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 67196,
+    "purchasePrice": "843.00",
+    "sellingPrice": "450.00",
+    "profit": 7,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 60870,
+    "purchasePrice": "250.00",
+    "sellingPrice": "841.00",
+    "profit": 12,
+    "status": "sold"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 78018,
+    "purchasePrice": "124.00",
+    "sellingPrice": "511.00",
+    "profit": 19,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 81752,
+    "purchasePrice": "35.00",
+    "sellingPrice": "519.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Effertz - Lynch",
+    "quantity": 35691,
+    "purchasePrice": "307.00",
+    "sellingPrice": "273.00",
+    "profit": 15,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 80496,
+    "purchasePrice": "615.00",
+    "sellingPrice": "823.00",
+    "profit": 19,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 31092,
+    "purchasePrice": "579.00",
+    "sellingPrice": "57.00",
+    "profit": 11,
+    "status": "sold"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 42578,
+    "purchasePrice": "283.00",
+    "sellingPrice": "742.00",
+    "profit": 18,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 6708,
+    "purchasePrice": "847.00",
+    "sellingPrice": "168.00",
+    "profit": 8,
+    "status": "sold"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 86988,
+    "purchasePrice": "174.00",
+    "sellingPrice": "499.00",
+    "profit": 12,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 89338,
+    "purchasePrice": "593.00",
+    "sellingPrice": "354.00",
+    "profit": 12,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 68170,
+    "purchasePrice": "194.00",
+    "sellingPrice": "905.00",
+    "profit": 6,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 43854,
+    "purchasePrice": "748.00",
+    "sellingPrice": "519.00",
+    "profit": 14,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 47777,
+    "purchasePrice": "705.00",
+    "sellingPrice": "465.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 29755,
+    "purchasePrice": "25.00",
+    "sellingPrice": "965.00",
+    "profit": 19,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 28739,
+    "purchasePrice": "2.00",
+    "sellingPrice": "729.00",
+    "profit": 15,
+    "status": "sold"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 28855,
+    "purchasePrice": "239.00",
+    "sellingPrice": "809.00",
+    "profit": 12,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 93893,
+    "purchasePrice": "611.00",
+    "sellingPrice": "277.00",
+    "profit": 6,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 50255,
+    "purchasePrice": "325.00",
+    "sellingPrice": "867.00",
+    "profit": 6,
+    "status": "sold"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 13894,
+    "purchasePrice": "152.00",
+    "sellingPrice": "462.00",
+    "profit": 12,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 79198,
+    "purchasePrice": "379.00",
+    "sellingPrice": "963.00",
+    "profit": 20,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 27558,
+    "purchasePrice": "951.00",
+    "sellingPrice": "821.00",
+    "profit": 5,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 27603,
+    "purchasePrice": "878.00",
+    "sellingPrice": "371.00",
+    "profit": 10,
+    "status": "sold"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 15156,
+    "purchasePrice": "108.00",
+    "sellingPrice": "981.00",
+    "profit": 18,
+    "status": "sold"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 76085,
+    "purchasePrice": "870.00",
+    "sellingPrice": "104.00",
+    "profit": 7,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 45297,
+    "purchasePrice": "539.00",
+    "sellingPrice": "669.00",
+    "profit": 20,
+    "status": "sold"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 81018,
+    "purchasePrice": "872.00",
+    "sellingPrice": "323.00",
+    "profit": 9,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 14117,
+    "purchasePrice": "517.00",
+    "sellingPrice": "669.00",
+    "profit": 11,
+    "status": "sold"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 51894,
+    "purchasePrice": "134.00",
+    "sellingPrice": "955.00",
+    "profit": 19,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 60636,
+    "purchasePrice": "863.00",
+    "sellingPrice": "695.00",
+    "profit": 16,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 23656,
+    "purchasePrice": "125.00",
+    "sellingPrice": "345.00",
+    "profit": 5,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 64562,
+    "purchasePrice": "115.00",
+    "sellingPrice": "749.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 4262,
+    "purchasePrice": "103.00",
+    "sellingPrice": "433.00",
+    "profit": 19,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 50588,
+    "purchasePrice": "795.00",
+    "sellingPrice": "3.00",
+    "profit": 12,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 72752,
+    "purchasePrice": "594.00",
+    "sellingPrice": "153.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 34002,
+    "purchasePrice": "961.00",
+    "sellingPrice": "218.00",
+    "profit": 8,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 47526,
+    "purchasePrice": "549.00",
+    "sellingPrice": "541.00",
+    "profit": 9,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 71104,
+    "purchasePrice": "246.00",
+    "sellingPrice": "466.00",
+    "profit": 9,
+    "status": "sold"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 74770,
+    "purchasePrice": "959.00",
+    "sellingPrice": "391.00",
+    "profit": 10,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 38107,
+    "purchasePrice": "53.00",
+    "sellingPrice": "402.00",
+    "profit": 6,
+    "status": "sold"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 55926,
+    "purchasePrice": "926.00",
+    "sellingPrice": "922.00",
+    "profit": 20,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 90165,
+    "purchasePrice": "188.00",
+    "sellingPrice": "446.00",
+    "profit": 10,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 49137,
+    "purchasePrice": "737.00",
+    "sellingPrice": "548.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 41206,
+    "purchasePrice": "380.00",
+    "sellingPrice": "224.00",
+    "profit": 6,
+    "status": "sold"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 94597,
+    "purchasePrice": "863.00",
+    "sellingPrice": "408.00",
+    "profit": 6,
+    "status": "sold"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 35310,
+    "purchasePrice": "839.00",
+    "sellingPrice": "611.00",
+    "profit": 14,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 95122,
+    "purchasePrice": "869.00",
+    "sellingPrice": "3.00",
+    "profit": 6,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 53989,
+    "purchasePrice": "811.00",
+    "sellingPrice": "304.00",
+    "profit": 14,
+    "status": "sold"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 43107,
+    "purchasePrice": "132.00",
+    "sellingPrice": "937.00",
+    "profit": 19,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 60694,
+    "purchasePrice": "133.00",
+    "sellingPrice": "121.00",
+    "profit": 7,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 51467,
+    "purchasePrice": "307.00",
+    "sellingPrice": "141.00",
+    "profit": 11,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 76965,
+    "purchasePrice": "5.00",
+    "sellingPrice": "347.00",
+    "profit": 16,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 86581,
+    "purchasePrice": "976.00",
+    "sellingPrice": "2.00",
+    "profit": 12,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 86494,
+    "purchasePrice": "889.00",
+    "sellingPrice": "410.00",
+    "profit": 13,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 90109,
+    "purchasePrice": "23.00",
+    "sellingPrice": "188.00",
+    "profit": 11,
+    "status": "sold"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 76965,
+    "purchasePrice": "967.00",
+    "sellingPrice": "918.00",
+    "profit": 6,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 57553,
+    "purchasePrice": "577.00",
+    "sellingPrice": "540.00",
+    "profit": 15,
+    "status": "sold"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 61955,
+    "purchasePrice": "543.00",
+    "sellingPrice": "364.00",
+    "profit": 18,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 86481,
+    "purchasePrice": "580.00",
+    "sellingPrice": "64.00",
+    "profit": 13,
+    "status": "sold"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 83396,
+    "purchasePrice": "155.00",
+    "sellingPrice": "263.00",
+    "profit": 19,
+    "status": "sold"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 71483,
+    "purchasePrice": "593.00",
+    "sellingPrice": "994.00",
+    "profit": 9,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 46043,
+    "purchasePrice": "845.00",
+    "sellingPrice": "332.00",
+    "profit": 17,
+    "status": "sold"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 44612,
+    "purchasePrice": "41.00",
+    "sellingPrice": "442.00",
+    "profit": 16,
+    "status": "sold"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 59943,
+    "purchasePrice": "883.00",
+    "sellingPrice": "715.00",
+    "profit": 13,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 20957,
+    "purchasePrice": "356.00",
+    "sellingPrice": "231.00",
+    "profit": 17,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 98432,
+    "purchasePrice": "231.00",
+    "sellingPrice": "422.00",
+    "profit": 16,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 18118,
+    "purchasePrice": "947.00",
+    "sellingPrice": "299.00",
+    "profit": 19,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 27919,
+    "purchasePrice": "400.00",
+    "sellingPrice": "208.00",
+    "profit": 17,
+    "status": "sold"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 48788,
+    "purchasePrice": "278.00",
+    "sellingPrice": "818.00",
+    "profit": 5,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 84418,
+    "purchasePrice": "765.00",
+    "sellingPrice": "221.00",
+    "profit": 13,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 33784,
+    "purchasePrice": "514.00",
+    "sellingPrice": "909.00",
+    "profit": 12,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 89926,
+    "purchasePrice": "211.00",
+    "sellingPrice": "653.00",
+    "profit": 12,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 5109,
+    "purchasePrice": "818.00",
+    "sellingPrice": "23.00",
+    "profit": 7,
+    "status": "in stock"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 44494,
+    "purchasePrice": "786.00",
+    "sellingPrice": "752.00",
+    "profit": 9,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 76471,
+    "purchasePrice": "392.00",
+    "sellingPrice": "326.00",
+    "profit": 6,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 69069,
+    "purchasePrice": "28.00",
+    "sellingPrice": "559.00",
+    "profit": 8,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 1014,
+    "purchasePrice": "317.00",
+    "sellingPrice": "96.00",
+    "profit": 6,
+    "status": "Discarded"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 26785,
+    "purchasePrice": "899.00",
+    "sellingPrice": "132.00",
+    "profit": 14,
+    "status": "sold"
+  },
+  {
+    "supplier": "Bahringer and Sons",
+    "quantity": 901,
+    "purchasePrice": "535.00",
+    "sellingPrice": "225.00",
+    "profit": 12,
+    "status": "sold"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Keeling - Bailey",
+    "location": { "latitude": 52.33, "longitude": 4.9 },
+    "city": "amsterdam",
+    "status": "contiminated"
+  },
+  {
+    "name": "Cremin Group",
+    "location": { "latitude": 52.29, "longitude": 4.94 },
+    "city": "amsterdam",
+    "status": "safe"
+  },
+  {
+    "name": "Lockman Group",
+    "location": { "latitude": 52.34, "longitude": 4.77 },
+    "city": "amsterdam",
+    "status": "contiminated"
+  },
+  {
+    "name": "Gutkowski LLC",
+    "location": { "latitude": 52.34, "longitude": 4.78 },
+    "city": "amsterdam",
+    "status": "safe"
+  },
+  {
+    "name": "Grady Inc",
+    "location": { "latitude": 52.29, "longitude": 4.93 },
+    "city": "amsterdam",
+    "status": "safe"
+  },
+  {
+    "name": "Kiehn, Emmerich and Rodriguez",
+    "location": { "latitude": 52.33, "longitude": 4.8 },
+    "city": "amsterdam",
+    "status": "contiminated"
+  },
+  {
+    "name": "O'Reilly, Dicki and Donnelly",
+    "location": { "latitude": 52.4, "longitude": 4.74 },
+    "city": "amsterdam",
+    "status": "contiminated"
+  },
+  {
+    "name": "Rempel and Sons",
+    "location": { "latitude": 52.29, "longitude": 4.82 },
+    "city": "amsterdam",
+    "status": "contiminated"
+  },
+  {
+    "name": "Schaefer and Sons",
+    "location": { "latitude": 52.32, "longitude": 4.88 },
+    "city": "amsterdam",
+    "status": "safe"
+  },
+  {
+    "name": "McClure, Okuneva and Zboncak",
+    "location": { "latitude": 52.29, "longitude": 4.97 },
+    "city": "amsterdam",
+    "status": "safe"
+  },
+  {
+    "name": "Bernhard Inc",
+    "location": { "latitude": 52.41, "longitude": 5.01 },
+    "city": "amsterdam",
+    "status": "safe"
+  },
+  {
+    "name": "Wunsch, Lemke and Heidenreich",
+    "location": { "latitude": 52.4, "longitude": 5.03 },
+    "city": "amsterdam",
+    "status": "contiminated"
+  },
+  {
+    "name": "Lowe - O'Keefe",
+    "location": { "latitude": 52.3, "longitude": 4.93 },
+    "city": "amsterdam",
+    "status": "contiminated"
+  },
+  {
+    "name": "Schiller Group",
+    "location": { "latitude": 52.3, "longitude": 4.84 },
+    "city": "amsterdam",
+    "status": "contiminated"
+  },
+  {
+    "name": "Kling, Schneider and Tillman",
+    "location": { "latitude": 52.29, "longitude": 4.74 },
+    "city": "amsterdam",
+    "status": "safe"
+  },
+  {
+    "name": "Rogahn - Bailey",
+    "location": { "latitude": 52.4, "longitude": 4.98 },
+    "city": "amsterdam",
+    "status": "safe"
+  },
+  {
+    "name": "Windler Inc",
+    "location": { "latitude": 52.39, "longitude": 4.74 },
+    "city": "amsterdam",
+    "status": "contiminated"
+  },
+  {
+    "name": "Langworth, Cruickshank and Paucek",
+    "location": { "latitude": 52.33, "longitude": 4.84 },
+    "city": "amsterdam",
+    "status": "contiminated"
+  },
+  {
+    "name": "Beier Group",
+    "location": { "latitude": 52.37, "longitude": 4.74 },
+    "city": "amsterdam",
+    "status": "contiminated"
+  },
+  {
+    "name": "Torphy, Mayer and Stehr",
+    "location": { "latitude": 52.3, "longitude": 4.96 },
+    "city": "amsterdam",
+    "status": "contiminated"
+  },
+  {
+    "name": "Weber Inc",
+    "location": { "latitude": 52.37, "longitude": 4.87 },
+    "city": "amsterdam",
+    "status": "safe"
+  },
+  {
+    "name": "Kuhlman LLC",
+    "location": { "latitude": 52.34, "longitude": 4.81 },
+    "city": "amsterdam",
+    "status": "contiminated"
+  },
+  {
+    "name": "Witting LLC",
+    "location": { "latitude": 52.35, "longitude": 4.77 },
+    "city": "amsterdam",
+    "status": "safe"
+  },
+  {
+    "name": "Anderson - Brakus",
+    "location": { "latitude": 52.31, "longitude": 4.81 },
+    "city": "amsterdam",
+    "status": "safe"
+  },
+  {
+    "name": "Feil - Will",
+    "location": { "latitude": 52.36, "longitude": 4.94 },
+    "city": "amsterdam",
+    "status": "contiminated"
+  },
+  {
+    "name": "Feeney, Bashirian and Johnson",
+    "location": { "latitude": 52.29, "longitude": 4.81 },
+    "city": "amsterdam",
+    "status": "contiminated"
+  },
+  {
+    "name": "Franecki LLC",
+    "location": { "latitude": 52.32, "longitude": 4.8 },
+    "city": "amsterdam",
+    "status": "contiminated"
+  },
+  {
+    "name": "Wilkinson - Mayer",
+    "location": { "latitude": 52.31, "longitude": 4.78 },
+    "city": "amsterdam",
+    "status": "safe"
+  }
+]
