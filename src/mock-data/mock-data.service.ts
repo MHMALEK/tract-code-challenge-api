@@ -28,7 +28,7 @@ export class MockDataService {
       CITIES_NAME.TOKYO,
     ];
 
-    return Array.from({ length: 1000 }, () => {
+    return Array.from({ length: 100 }, () => {
       const city = faker.helpers.arrayElement(cities);
 
       let latitude, longitude;
@@ -80,6 +80,7 @@ export class MockDataService {
         }),
         purchasePrice: faker.commerce.price(),
         sellingPrice: faker.commerce.price(),
+        profit: faker.number.int({ min: 5, max: 20 }),
         status: faker.helpers.arrayElement([
           OrderStatus.DISCARDED,
           OrderStatus.IN_STOCK,

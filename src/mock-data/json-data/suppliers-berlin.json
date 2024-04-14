@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Welch - White",
+    "location": { "latitude": 52.34, "longitude": 13.25 },
+    "city": "berlin",
+    "status": "safe"
+  },
+  {
+    "name": "Green - Ankunding",
+    "location": { "latitude": 52.47, "longitude": 13.49 },
+    "city": "berlin",
+    "status": "safe"
+  },
+  {
+    "name": "Rosenbaum Group",
+    "location": { "latitude": 52.52, "longitude": 13.52 },
+    "city": "berlin",
+    "status": "contiminated"
+  },
+  {
+    "name": "Fadel and Sons",
+    "location": { "latitude": 52.37, "longitude": 13.6 },
+    "city": "berlin",
+    "status": "contiminated"
+  },
+  {
+    "name": "Balistreri - Dach",
+    "location": { "latitude": 52.51, "longitude": 13.46 },
+    "city": "berlin",
+    "status": "safe"
+  },
+  {
+    "name": "Keeling - Shields",
+    "location": { "latitude": 52.38, "longitude": 13.41 },
+    "city": "berlin",
+    "status": "safe"
+  },
+  {
+    "name": "Purdy, Bahringer and Mohr",
+    "location": { "latitude": 52.43, "longitude": 13.34 },
+    "city": "berlin",
+    "status": "safe"
+  },
+  {
+    "name": "McGlynn and Sons",
+    "location": { "latitude": 52.59, "longitude": 13.27 },
+    "city": "berlin",
+    "status": "contiminated"
+  },
+  {
+    "name": "Weimann - Ankunding",
+    "location": { "latitude": 52.59, "longitude": 13.46 },
+    "city": "berlin",
+    "status": "safe"
+  },
+  {
+    "name": "Champlin - Hettinger",
+    "location": { "latitude": 52.37, "longitude": 13.26 },
+    "city": "berlin",
+    "status": "contiminated"
+  },
+  {
+    "name": "Pfeffer and Sons",
+    "location": { "latitude": 52.55, "longitude": 13.27 },
+    "city": "berlin",
+    "status": "safe"
+  },
+  {
+    "name": "Braun - Gottlieb",
+    "location": { "latitude": 52.38, "longitude": 13.44 },
+    "city": "berlin",
+    "status": "contiminated"
+  },
+  {
+    "name": "Toy - Block",
+    "location": { "latitude": 52.3, "longitude": 13.38 },
+    "city": "berlin",
+    "status": "contiminated"
+  },
+  {
+    "name": "Cummings - Kuphal",
+    "location": { "latitude": 52.4, "longitude": 13.51 },
+    "city": "berlin",
+    "status": "contiminated"
+  },
+  {
+    "name": "Reichert, Anderson and Ebert",
+    "location": { "latitude": 52.36, "longitude": 13.31 },
+    "city": "berlin",
+    "status": "safe"
+  },
+  {
+    "name": "Batz, Kuhlman and Hagenes",
+    "location": { "latitude": 52.37, "longitude": 13.2 },
+    "city": "berlin",
+    "status": "safe"
+  },
+  {
+    "name": "McCullough Group",
+    "location": { "latitude": 52.55, "longitude": 13.4 },
+    "city": "berlin",
+    "status": "safe"
+  },
+  {
+    "name": "Kassulke - Kessler",
+    "location": { "latitude": 52.56, "longitude": 13.42 },
+    "city": "berlin",
+    "status": "safe"
+  },
+  {
+    "name": "Murazik, Yundt and Pagac",
+    "location": { "latitude": 52.44, "longitude": 13.54 },
+    "city": "berlin",
+    "status": "contiminated"
+  },
+  {
+    "name": "Effertz, Bernier and Greenfelder",
+    "location": { "latitude": 52.34, "longitude": 13.4 },
+    "city": "berlin",
+    "status": "safe"
+  },
+  {
+    "name": "Gleason and Sons",
+    "location": { "latitude": 52.43, "longitude": 13.4 },
+    "city": "berlin",
+    "status": "safe"
+  },
+  {
+    "name": "Ortiz - Jacobi",
+    "location": { "latitude": 52.57, "longitude": 13.47 },
+    "city": "berlin",
+    "status": "contiminated"
+  },
+  {
+    "name": "Volkman, Grant and McGlynn",
+    "location": { "latitude": 52.54, "longitude": 13.42 },
+    "city": "berlin",
+    "status": "safe"
+  },
+  {
+    "name": "Altenwerth - Blanda",
+    "location": { "latitude": 52.49, "longitude": 13.36 },
+    "city": "berlin",
+    "status": "safe"
+  },
+  {
+    "name": "Windler - Turcotte",
+    "location": { "latitude": 52.41, "longitude": 13.32 },
+    "city": "berlin",
+    "status": "contiminated"
+  }
+]
